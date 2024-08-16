@@ -1,0 +1,2760 @@
+{
+    "subject0": {
+        "video": [
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv100/4508fb3a001f4884a009cc742549ee79_1.mp4",
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv100/4508fb3a001f4884a009cc742549ee79_2.mp4"
+        ],
+        "ground_truth": "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv100/4508fb3a001f4884a009cc742549ee79.json",
+        "BP": {
+            "bp_sys": 104,
+            "bp_dia": 73
+        }
+    },
+    "subject1": {
+        "video": [
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv100/f0ad543e5db34305b09509aa209f3a50_1.mp4",
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv100/f0ad543e5db34305b09509aa209f3a50_2.mp4"
+        ],
+        "ground_truth": "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv100/f0ad543e5db34305b09509aa209f3a50.json",
+        "BP": {
+            "bp_sys": 135,
+            "bp_dia": 90
+        }
+    },
+    "subject2": {
+        "video": [
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv100/f1b1cb1a535a44f6a07251a938d05ee2_1.mp4",
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv100/f1b1cb1a535a44f6a07251a938d05ee2_2.mp4"
+        ],
+        "ground_truth": "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv100/f1b1cb1a535a44f6a07251a938d05ee2.json",
+        "BP": {
+            "bp_sys": 118,
+            "bp_dia": 80
+        }
+    },
+    "subject3": {
+        "video": [
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv100/f39cf7205267470c8ba031a5088ff073_1.mp4",
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv100/f39cf7205267470c8ba031a5088ff073_2.mp4"
+        ],
+        "ground_truth": "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv100/f39cf7205267470c8ba031a5088ff073.json",
+        "BP": {
+            "bp_sys": 120,
+            "bp_dia": 79
+        }
+    },
+    "subject4": {
+        "video": [
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv100/f3d80d9462c941d8a710666a3be15058_1.mp4",
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv100/f3d80d9462c941d8a710666a3be15058_2.mp4"
+        ],
+        "ground_truth": "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv100/f3d80d9462c941d8a710666a3be15058.json",
+        "BP": {
+            "bp_sys": 134,
+            "bp_dia": 81
+        }
+    },
+    "subject5": {
+        "video": [
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv100/f6cd796a259c4fcf8abd07fa4a0edb99_1.mp4",
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv100/f6cd796a259c4fcf8abd07fa4a0edb99_2.mp4"
+        ],
+        "ground_truth": "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv100/f6cd796a259c4fcf8abd07fa4a0edb99.json",
+        "BP": {
+            "bp_sys": 166,
+            "bp_dia": 83
+        }
+    },
+    "subject6": {
+        "video": [
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv100/005e7070c2c3466aab7bac185e7fbd29_1.mp4",
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv100/005e7070c2c3466aab7bac185e7fbd29_2.mp4"
+        ],
+        "ground_truth": "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv100/005e7070c2c3466aab7bac185e7fbd29.json",
+        "BP": {
+            "bp_sys": 116,
+            "bp_dia": 78
+        }
+    },
+    "subject7": {
+        "video": [
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv100/01d1d2f99bba437aa9442c0a52d59d1e_1.mp4",
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv100/01d1d2f99bba437aa9442c0a52d59d1e_2.mp4"
+        ],
+        "ground_truth": "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv100/01d1d2f99bba437aa9442c0a52d59d1e.json",
+        "BP": {
+            "bp_sys": 130,
+            "bp_dia": 76
+        }
+    },
+    "subject8": {
+        "video": [
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv100/029164ea43314a73b4f1c0dfa2bd4ec4_1.mp4",
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv100/029164ea43314a73b4f1c0dfa2bd4ec4_2.mp4"
+        ],
+        "ground_truth": "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv100/029164ea43314a73b4f1c0dfa2bd4ec4.json",
+        "BP": {
+            "bp_sys": 110,
+            "bp_dia": 73
+        }
+    },
+    "subject9": {
+        "video": [
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv100/03fdb810e50b4aa58edbccc6012c6710_1.mp4",
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv100/03fdb810e50b4aa58edbccc6012c6710_2.mp4"
+        ],
+        "ground_truth": "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv100/03fdb810e50b4aa58edbccc6012c6710.json",
+        "BP": {
+            "bp_sys": 154,
+            "bp_dia": 92
+        }
+    },
+    "subject10": {
+        "video": [
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv100/05d557f24aa44f118b73ec345d593cf1_1.mp4",
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv100/05d557f24aa44f118b73ec345d593cf1_2.mp4"
+        ],
+        "ground_truth": "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv100/05d557f24aa44f118b73ec345d593cf1.json",
+        "BP": {
+            "bp_sys": 129,
+            "bp_dia": 82
+        }
+    },
+    "subject11": {
+        "video": [
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv100/06f1fc56e3344329b1fc56f3a90c4008_1.mp4",
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv100/06f1fc56e3344329b1fc56f3a90c4008_2.mp4"
+        ],
+        "ground_truth": "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv100/06f1fc56e3344329b1fc56f3a90c4008.json",
+        "BP": {
+            "bp_sys": 156,
+            "bp_dia": 98
+        }
+    },
+    "subject12": {
+        "video": [
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv100/0807f9857896406a84adbbbdd663a069_1.mp4",
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv100/0807f9857896406a84adbbbdd663a069_2.mp4"
+        ],
+        "ground_truth": "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv100/0807f9857896406a84adbbbdd663a069.json",
+        "BP": {
+            "bp_sys": 133,
+            "bp_dia": 72
+        }
+    },
+    "subject13": {
+        "video": [
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv100/08321404321e4deaa50645c59fb07591_1.mp4",
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv100/08321404321e4deaa50645c59fb07591_2.mp4"
+        ],
+        "ground_truth": "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv100/08321404321e4deaa50645c59fb07591.json",
+        "BP": {
+            "bp_sys": 123,
+            "bp_dia": 72
+        }
+    },
+    "subject14": {
+        "video": [
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv100/099241c6bf0347f19b23d5be5fe5aa1d_1.mp4",
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv100/099241c6bf0347f19b23d5be5fe5aa1d_2.mp4"
+        ],
+        "ground_truth": "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv100/099241c6bf0347f19b23d5be5fe5aa1d.json",
+        "BP": {
+            "bp_sys": 136,
+            "bp_dia": 90
+        }
+    },
+    "subject15": {
+        "video": [
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv100/0a687dbdecde4cf1b25e00e5f513a323_1.mp4",
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv100/0a687dbdecde4cf1b25e00e5f513a323_2.mp4"
+        ],
+        "ground_truth": "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv100/0a687dbdecde4cf1b25e00e5f513a323.json",
+        "BP": {
+            "bp_sys": 151,
+            "bp_dia": 80
+        }
+    },
+    "subject16": {
+        "video": [
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv100/0cd84520146343ce858902bb25309f59_1.mp4",
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv100/0cd84520146343ce858902bb25309f59_2.mp4"
+        ],
+        "ground_truth": "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv100/0cd84520146343ce858902bb25309f59.json",
+        "BP": {
+            "bp_sys": 137,
+            "bp_dia": 77
+        }
+    },
+    "subject17": {
+        "video": [
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv100/0d44be8c4b5147e78666c8d8b1e2b2a1_1.mp4",
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv100/0d44be8c4b5147e78666c8d8b1e2b2a1_2.mp4"
+        ],
+        "ground_truth": "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv100/0d44be8c4b5147e78666c8d8b1e2b2a1.json",
+        "BP": {
+            "bp_sys": 175,
+            "bp_dia": 99
+        }
+    },
+    "subject18": {
+        "video": [
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv100/4fe74ac1fa1649e0974fc0fd9a0ef7c6_1.mp4",
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv100/4fe74ac1fa1649e0974fc0fd9a0ef7c6_2.mp4"
+        ],
+        "ground_truth": "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv100/4fe74ac1fa1649e0974fc0fd9a0ef7c6.json",
+        "BP": {
+            "bp_sys": 124,
+            "bp_dia": 79
+        }
+    },
+    "subject19": {
+        "video": [
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv100/57b4b9d25a0344c19aad1f3ce5ce9cd4_1.mp4",
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv100/57b4b9d25a0344c19aad1f3ce5ce9cd4_2.mp4"
+        ],
+        "ground_truth": "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv100/57b4b9d25a0344c19aad1f3ce5ce9cd4.json",
+        "BP": {
+            "bp_sys": 183,
+            "bp_dia": 129
+        }
+    },
+    "subject20": {
+        "video": [
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv100/6a2a4e73f0394d37ad3b521153776b7a_1.mp4",
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv100/6a2a4e73f0394d37ad3b521153776b7a_2.mp4"
+        ],
+        "ground_truth": "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv100/6a2a4e73f0394d37ad3b521153776b7a.json",
+        "BP": {
+            "bp_sys": 134,
+            "bp_dia": 92
+        }
+    },
+    "subject21": {
+        "video": [
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv100/73cff2a808ef4435b09068521ccaa63c_1.mp4",
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv100/73cff2a808ef4435b09068521ccaa63c_2.mp4"
+        ],
+        "ground_truth": "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv100/73cff2a808ef4435b09068521ccaa63c.json",
+        "BP": {
+            "bp_sys": 123,
+            "bp_dia": 82
+        }
+    },
+    "subject22": {
+        "video": [
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv100/82bea7b03e90495db76887b162db7b68_1.mp4",
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv100/82bea7b03e90495db76887b162db7b68_2.mp4"
+        ],
+        "ground_truth": "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv100/82bea7b03e90495db76887b162db7b68.json",
+        "BP": {
+            "bp_sys": 105,
+            "bp_dia": 72
+        }
+    },
+    "subject23": {
+        "video": [
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv100/8c46e00e95074d45af0295d6d3d4a79e_1.mp4",
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv100/8c46e00e95074d45af0295d6d3d4a79e_2.mp4",
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv100/8c46e00e95074d45af0295d6d3d4a79e_3.mp4"
+        ],
+        "ground_truth": "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv100/8c46e00e95074d45af0295d6d3d4a79e.json",
+        "BP": {
+            "bp_sys": 211,
+            "bp_dia": 75
+        }
+    },
+    "subject24": {
+        "video": [
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv100/b470c035f73e4d51ac199dff39228fa3_1.mp4",
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv100/b470c035f73e4d51ac199dff39228fa3_2.mp4",
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv100/b470c035f73e4d51ac199dff39228fa3_3.mp4"
+        ],
+        "ground_truth": "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv100/b470c035f73e4d51ac199dff39228fa3.json",
+        "BP": {
+            "bp_sys": 174,
+            "bp_dia": 78
+        }
+    },
+    "subject25": {
+        "video": [
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv100/bb609270d83a4a768a8d749bd2c3ee83_1.mp4",
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv100/bb609270d83a4a768a8d749bd2c3ee83_2.mp4"
+        ],
+        "ground_truth": "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv100/bb609270d83a4a768a8d749bd2c3ee83.json",
+        "BP": {
+            "bp_sys": 127,
+            "bp_dia": 92
+        }
+    },
+    "subject26": {
+        "video": [
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv100/c69fb15fd3444f299f93063c3661020b_1.mp4",
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv100/c69fb15fd3444f299f93063c3661020b_2.mp4"
+        ],
+        "ground_truth": "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv100/c69fb15fd3444f299f93063c3661020b.json",
+        "BP": {
+            "bp_sys": 122,
+            "bp_dia": 72
+        }
+    },
+    "subject27": {
+        "video": [
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv100/d14184474c5446b692f04766dd4c4196_1.mp4",
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv100/d14184474c5446b692f04766dd4c4196_2.mp4"
+        ],
+        "ground_truth": "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv100/d14184474c5446b692f04766dd4c4196.json",
+        "BP": {
+            "bp_sys": 116,
+            "bp_dia": 87
+        }
+    },
+    "subject28": {
+        "video": [
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv100/ea0b7fa711004b3884c8137f9dd5f141_1.mp4",
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv100/ea0b7fa711004b3884c8137f9dd5f141_2.mp4"
+        ],
+        "ground_truth": "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv100/ea0b7fa711004b3884c8137f9dd5f141.json",
+        "BP": {
+            "bp_sys": 107,
+            "bp_dia": 84
+        }
+    },
+    "subject29": {
+        "video": [
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv100/0dfe22300e6e4bf5ab6382431113933a_1.mp4",
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv100/0dfe22300e6e4bf5ab6382431113933a_2.mp4"
+        ],
+        "ground_truth": "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv100/0dfe22300e6e4bf5ab6382431113933a.json",
+        "BP": {
+            "bp_sys": 140,
+            "bp_dia": 73
+        }
+    },
+    "subject30": {
+        "video": [
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv100/0ef0ee2da5a347a2ae6b85a86a8b927a_1.mp4",
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv100/0ef0ee2da5a347a2ae6b85a86a8b927a_2.mp4"
+        ],
+        "ground_truth": "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv100/0ef0ee2da5a347a2ae6b85a86a8b927a.json",
+        "BP": {
+            "bp_sys": 107,
+            "bp_dia": 69
+        }
+    },
+    "subject31": {
+        "video": [
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv100/10b5220126224a1f9a4b613cab9773ba_1.mp4",
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv100/10b5220126224a1f9a4b613cab9773ba_2.mp4"
+        ],
+        "ground_truth": "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv100/10b5220126224a1f9a4b613cab9773ba.json",
+        "BP": {
+            "bp_sys": 143,
+            "bp_dia": 74
+        }
+    },
+    "subject32": {
+        "video": [
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv100/12c7fccd30e446a7931a4ec34c4e3b8a_1.mp4",
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv100/12c7fccd30e446a7931a4ec34c4e3b8a_2.mp4"
+        ],
+        "ground_truth": "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv100/12c7fccd30e446a7931a4ec34c4e3b8a.json",
+        "BP": {
+            "bp_sys": 133,
+            "bp_dia": 88
+        }
+    },
+    "subject33": {
+        "video": [
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv100/13a2d51778b74d15a81ea1eb3e95e17d_1.mp4",
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv100/13a2d51778b74d15a81ea1eb3e95e17d_2.mp4"
+        ],
+        "ground_truth": "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv100/13a2d51778b74d15a81ea1eb3e95e17d.json",
+        "BP": {
+            "bp_sys": 121,
+            "bp_dia": 78
+        }
+    },
+    "subject34": {
+        "video": [
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv100/1402e49a55e147aa9fec394f00d4136b_1.mp4",
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv100/1402e49a55e147aa9fec394f00d4136b_2.mp4"
+        ],
+        "ground_truth": "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv100/1402e49a55e147aa9fec394f00d4136b.json",
+        "BP": {
+            "bp_sys": 107,
+            "bp_dia": 58
+        }
+    },
+    "subject35": {
+        "video": [
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv100/156a25a52b854bd4a9bb5cd415427bea_1.mp4",
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv100/156a25a52b854bd4a9bb5cd415427bea_2.mp4"
+        ],
+        "ground_truth": "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv100/156a25a52b854bd4a9bb5cd415427bea.json",
+        "BP": {
+            "bp_sys": 136,
+            "bp_dia": 90
+        }
+    },
+    "subject36": {
+        "video": [
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv100/182c5f22fd204bccacc347c4e023a6cf_1.mp4",
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv100/182c5f22fd204bccacc347c4e023a6cf_2.mp4"
+        ],
+        "ground_truth": "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv100/182c5f22fd204bccacc347c4e023a6cf.json",
+        "BP": {
+            "bp_sys": 116,
+            "bp_dia": 69
+        }
+    },
+    "subject37": {
+        "video": [
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv100/195a09d8529740949cc63d71e67d08aa_1.mp4",
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv100/195a09d8529740949cc63d71e67d08aa_2.mp4"
+        ],
+        "ground_truth": "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv100/195a09d8529740949cc63d71e67d08aa.json",
+        "BP": {
+            "bp_sys": 127,
+            "bp_dia": 83
+        }
+    },
+    "subject38": {
+        "video": [
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv100/1ddd91c20c934751b06b49830b5fa69a_1.mp4",
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv100/1ddd91c20c934751b06b49830b5fa69a_2.mp4"
+        ],
+        "ground_truth": "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv100/1ddd91c20c934751b06b49830b5fa69a.json",
+        "BP": {
+            "bp_sys": 141,
+            "bp_dia": 84
+        }
+    },
+    "subject39": {
+        "video": [
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv100/1f77bc0b2969416ea417d705c27030c6_1.mp4",
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv100/1f77bc0b2969416ea417d705c27030c6_2.mp4"
+        ],
+        "ground_truth": "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv100/1f77bc0b2969416ea417d705c27030c6.json",
+        "BP": {
+            "bp_sys": 155,
+            "bp_dia": 102
+        }
+    },
+    "subject40": {
+        "video": [
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv100/200e8270487b4d0487170d9ef1618ce0_1.mp4",
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv100/200e8270487b4d0487170d9ef1618ce0_2.mp4"
+        ],
+        "ground_truth": "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv100/200e8270487b4d0487170d9ef1618ce0.json",
+        "BP": {
+            "bp_sys": 179,
+            "bp_dia": 100
+        }
+    },
+    "subject41": {
+        "video": [
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv100/20ebb8261d9e406590a7e244a0f46bdd_1.mp4",
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv100/20ebb8261d9e406590a7e244a0f46bdd_2.mp4"
+        ],
+        "ground_truth": "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv100/20ebb8261d9e406590a7e244a0f46bdd.json",
+        "BP": {
+            "bp_sys": 141,
+            "bp_dia": 73
+        }
+    },
+    "subject42": {
+        "video": [
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv100/221d659ec63147f695f4b04baba48137_1.mp4",
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv100/221d659ec63147f695f4b04baba48137_2.mp4"
+        ],
+        "ground_truth": "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv100/221d659ec63147f695f4b04baba48137.json",
+        "BP": {
+            "bp_sys": 140,
+            "bp_dia": 92
+        }
+    },
+    "subject43": {
+        "video": [
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv100/23c260cdaae7423a9cf25df9c132324a_1.mp4",
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv100/23c260cdaae7423a9cf25df9c132324a_2.mp4"
+        ],
+        "ground_truth": "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv100/23c260cdaae7423a9cf25df9c132324a.json",
+        "BP": {
+            "bp_sys": 111,
+            "bp_dia": 72
+        }
+    },
+    "subject44": {
+        "video": [
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv100/25484a0053d5482eaff4c71ae887c111_1.mp4",
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv100/25484a0053d5482eaff4c71ae887c111_2.mp4"
+        ],
+        "ground_truth": "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv100/25484a0053d5482eaff4c71ae887c111.json",
+        "BP": {
+            "bp_sys": 154,
+            "bp_dia": 85
+        }
+    },
+    "subject45": {
+        "video": [
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv100/25b81ef9d6b14c83a60bb4145463b8ec_1.mp4",
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv100/25b81ef9d6b14c83a60bb4145463b8ec_2.mp4"
+        ],
+        "ground_truth": "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv100/25b81ef9d6b14c83a60bb4145463b8ec.json",
+        "BP": {
+            "bp_sys": 131,
+            "bp_dia": 83
+        }
+    },
+    "subject46": {
+        "video": [
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv100/299956f9be854602ae951cd62d494b58_1.mp4",
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv100/299956f9be854602ae951cd62d494b58_2.mp4"
+        ],
+        "ground_truth": "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv100/299956f9be854602ae951cd62d494b58.json",
+        "BP": {
+            "bp_sys": 122,
+            "bp_dia": 62
+        }
+    },
+    "subject47": {
+        "video": [
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv100/2a5aea84b0824990b4897277ea21902d_1.mp4",
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv100/2a5aea84b0824990b4897277ea21902d_2.mp4"
+        ],
+        "ground_truth": "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv100/2a5aea84b0824990b4897277ea21902d.json",
+        "BP": {
+            "bp_sys": 123,
+            "bp_dia": 80
+        }
+    },
+    "subject48": {
+        "video": [
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv100/2f68431525524f6e8ecb1c342a4e78e0_1.mp4",
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv100/2f68431525524f6e8ecb1c342a4e78e0_2.mp4"
+        ],
+        "ground_truth": "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv100/2f68431525524f6e8ecb1c342a4e78e0.json",
+        "BP": {
+            "bp_sys": 160,
+            "bp_dia": 82
+        }
+    },
+    "subject49": {
+        "video": [
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv100/313afa2b0524489887d1705407918ef3_1.mp4",
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv100/313afa2b0524489887d1705407918ef3_2.mp4"
+        ],
+        "ground_truth": "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv100/313afa2b0524489887d1705407918ef3.json",
+        "BP": {
+            "bp_sys": 108,
+            "bp_dia": 79
+        }
+    },
+    "subject50": {
+        "video": [
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv100/317ec4e7681e42f3ab2c644b5ef83ae3_1.mp4",
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv100/317ec4e7681e42f3ab2c644b5ef83ae3_2.mp4"
+        ],
+        "ground_truth": "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv100/317ec4e7681e42f3ab2c644b5ef83ae3.json",
+        "BP": {
+            "bp_sys": 165,
+            "bp_dia": 95
+        }
+    },
+    "subject51": {
+        "video": [
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv100/31817de63e2547c3858c8b3903bba674_1.mp4",
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv100/31817de63e2547c3858c8b3903bba674_2.mp4"
+        ],
+        "ground_truth": "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv100/31817de63e2547c3858c8b3903bba674.json",
+        "BP": {
+            "bp_sys": 123,
+            "bp_dia": 73
+        }
+    },
+    "subject52": {
+        "video": [
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv100/31dfadeb567545b1a894391ede86d724_1.mp4",
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv100/31dfadeb567545b1a894391ede86d724_2.mp4"
+        ],
+        "ground_truth": "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv100/31dfadeb567545b1a894391ede86d724.json",
+        "BP": {
+            "bp_sys": 186,
+            "bp_dia": 106
+        }
+    },
+    "subject53": {
+        "video": [
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv100/33b0bde07c8c408d9018b60ac2177b8e_1.mp4",
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv100/33b0bde07c8c408d9018b60ac2177b8e_2.mp4"
+        ],
+        "ground_truth": "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv100/33b0bde07c8c408d9018b60ac2177b8e.json",
+        "BP": {
+            "bp_sys": 191,
+            "bp_dia": 114
+        }
+    },
+    "subject54": {
+        "video": [
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv100/34d7bd3120704be5984d3340d086c873_1.mp4",
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv100/34d7bd3120704be5984d3340d086c873_2.mp4"
+        ],
+        "ground_truth": "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv100/34d7bd3120704be5984d3340d086c873.json",
+        "BP": {
+            "bp_sys": 141,
+            "bp_dia": 85
+        }
+    },
+    "subject55": {
+        "video": [
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv100/36c1a398d66d4ff6a49634263f2b6720_1.mp4",
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv100/36c1a398d66d4ff6a49634263f2b6720_2.mp4"
+        ],
+        "ground_truth": "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv100/36c1a398d66d4ff6a49634263f2b6720.json",
+        "BP": {
+            "bp_sys": 112,
+            "bp_dia": 74
+        }
+    },
+    "subject56": {
+        "video": [
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv100/394a55348e104641865b0fc2776687fe_1.mp4",
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv100/394a55348e104641865b0fc2776687fe_2.mp4"
+        ],
+        "ground_truth": "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv100/394a55348e104641865b0fc2776687fe.json",
+        "BP": {
+            "bp_sys": 125,
+            "bp_dia": 84
+        }
+    },
+    "subject57": {
+        "video": [
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv100/3ae8209fa96d433ab2cdae4de9e08445_1.mp4",
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv100/3ae8209fa96d433ab2cdae4de9e08445_2.mp4"
+        ],
+        "ground_truth": "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv100/3ae8209fa96d433ab2cdae4de9e08445.json",
+        "BP": {
+            "bp_sys": 128,
+            "bp_dia": 74
+        }
+    },
+    "subject58": {
+        "video": [
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv100/3bf7a727c88f4584bfe8590390b3cc88_1.mp4",
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv100/3bf7a727c88f4584bfe8590390b3cc88_2.mp4"
+        ],
+        "ground_truth": "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv100/3bf7a727c88f4584bfe8590390b3cc88.json",
+        "BP": {
+            "bp_sys": 122,
+            "bp_dia": 66
+        }
+    },
+    "subject59": {
+        "video": [
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv100/3cf596e2bcc34862abc89bd2eca4a985_1.mp4",
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv100/3cf596e2bcc34862abc89bd2eca4a985_2.mp4"
+        ],
+        "ground_truth": "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv100/3cf596e2bcc34862abc89bd2eca4a985.json",
+        "BP": {
+            "bp_sys": 128,
+            "bp_dia": 77
+        }
+    },
+    "subject60": {
+        "video": [
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv100/3f72a0b643f843b385b3e855d3437509_1.mp4",
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv100/3f72a0b643f843b385b3e855d3437509_2.mp4"
+        ],
+        "ground_truth": "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv100/3f72a0b643f843b385b3e855d3437509.json",
+        "BP": {
+            "bp_sys": 134,
+            "bp_dia": 85
+        }
+    },
+    "subject61": {
+        "video": [
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv100/413b9151abce4570a55abf6f66bd4315_1.mp4",
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv100/413b9151abce4570a55abf6f66bd4315_2.mp4"
+        ],
+        "ground_truth": "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv100/413b9151abce4570a55abf6f66bd4315.json",
+        "BP": {
+            "bp_sys": 144,
+            "bp_dia": 90
+        }
+    },
+    "subject62": {
+        "video": [
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv100/44175316c44742e1b2fb9865297b1bec_1.mp4",
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv100/44175316c44742e1b2fb9865297b1bec_2.mp4"
+        ],
+        "ground_truth": "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv100/44175316c44742e1b2fb9865297b1bec.json",
+        "BP": {
+            "bp_sys": 157,
+            "bp_dia": 83
+        }
+    },
+    "subject63": {
+        "video": [
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv100/44b572ad99594e0cbb7c9f19372b84e4_1.mp4",
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv100/44b572ad99594e0cbb7c9f19372b84e4_2.mp4"
+        ],
+        "ground_truth": "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv100/44b572ad99594e0cbb7c9f19372b84e4.json",
+        "BP": {
+            "bp_sys": 125,
+            "bp_dia": 62
+        }
+    },
+    "subject64": {
+        "video": [
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv100/4a042169531b4f3b8ced53679d94c33a_1.mp4",
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv100/4a042169531b4f3b8ced53679d94c33a_2.mp4"
+        ],
+        "ground_truth": "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv100/4a042169531b4f3b8ced53679d94c33a.json",
+        "BP": {
+            "bp_sys": 187,
+            "bp_dia": 113
+        }
+    },
+    "subject65": {
+        "video": [
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv100/4d127abf1e834c1f8d5bb895c439a5df_1.mp4",
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv100/4d127abf1e834c1f8d5bb895c439a5df_2.mp4"
+        ],
+        "ground_truth": "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv100/4d127abf1e834c1f8d5bb895c439a5df.json",
+        "BP": {
+            "bp_sys": 126,
+            "bp_dia": 76
+        }
+    },
+    "subject66": {
+        "video": [
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv100/4f51a0de61d74e0096dbb419ba984018_1.mp4",
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv100/4f51a0de61d74e0096dbb419ba984018_2.mp4",
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv100/4f51a0de61d74e0096dbb419ba984018_3.mp4"
+        ],
+        "ground_truth": "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv100/4f51a0de61d74e0096dbb419ba984018.json",
+        "BP": {
+            "bp_sys": 141,
+            "bp_dia": 87
+        }
+    },
+    "subject67": {
+        "video": [
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv100/50f806430b314fdd8a1e6acb90f2bedd_1.mp4",
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv100/50f806430b314fdd8a1e6acb90f2bedd_2.mp4"
+        ],
+        "ground_truth": "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv100/50f806430b314fdd8a1e6acb90f2bedd.json",
+        "BP": {
+            "bp_sys": 123,
+            "bp_dia": 72
+        }
+    },
+    "subject68": {
+        "video": [
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv100/51b8f9e52f0b4d8dada3ef5f75f3375e_1.mp4",
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv100/51b8f9e52f0b4d8dada3ef5f75f3375e_2.mp4"
+        ],
+        "ground_truth": "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv100/51b8f9e52f0b4d8dada3ef5f75f3375e.json",
+        "BP": {
+            "bp_sys": 119,
+            "bp_dia": 69
+        }
+    },
+    "subject69": {
+        "video": [
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv100/5697cf59f60e40ea8ba365457a31bf27_1.mp4",
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv100/5697cf59f60e40ea8ba365457a31bf27_2.mp4"
+        ],
+        "ground_truth": "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv100/5697cf59f60e40ea8ba365457a31bf27.json",
+        "BP": {
+            "bp_sys": 112,
+            "bp_dia": 64
+        }
+    },
+    "subject70": {
+        "video": [
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv100/5cf40979cec141e48fb8b04d790e7582_1.mp4",
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv100/5cf40979cec141e48fb8b04d790e7582_2.mp4"
+        ],
+        "ground_truth": "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv100/5cf40979cec141e48fb8b04d790e7582.json",
+        "BP": {
+            "bp_sys": 143,
+            "bp_dia": 88
+        }
+    },
+    "subject71": {
+        "video": [
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv100/5fd35b20292842e3b552bafd83726fcf_1.mp4",
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv100/5fd35b20292842e3b552bafd83726fcf_2.mp4"
+        ],
+        "ground_truth": "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv100/5fd35b20292842e3b552bafd83726fcf.json",
+        "BP": {
+            "bp_sys": 129,
+            "bp_dia": 79
+        }
+    },
+    "subject72": {
+        "video": [
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv100/60247f0e817f4b82afa6bb7d574457b2_1.mp4",
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv100/60247f0e817f4b82afa6bb7d574457b2_2.mp4"
+        ],
+        "ground_truth": "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv100/60247f0e817f4b82afa6bb7d574457b2.json",
+        "BP": {
+            "bp_sys": 119,
+            "bp_dia": 77
+        }
+    },
+    "subject73": {
+        "video": [
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv100/6ec6af6923f34e0eaa2e9b79801957db_1.mp4",
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv100/6ec6af6923f34e0eaa2e9b79801957db_2.mp4"
+        ],
+        "ground_truth": "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv100/6ec6af6923f34e0eaa2e9b79801957db.json",
+        "BP": {
+            "bp_sys": 179,
+            "bp_dia": 103
+        }
+    },
+    "subject74": {
+        "video": [
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv100/6f241858e0dc4c148cdf185eb46893e7_1.mp4",
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv100/6f241858e0dc4c148cdf185eb46893e7_2.mp4"
+        ],
+        "ground_truth": "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv100/6f241858e0dc4c148cdf185eb46893e7.json",
+        "BP": {
+            "bp_sys": 168,
+            "bp_dia": 101
+        }
+    },
+    "subject75": {
+        "video": [
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv100/6f5ddc019cbe424babc0360465e8a53b_1.mp4",
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv100/6f5ddc019cbe424babc0360465e8a53b_2.mp4"
+        ],
+        "ground_truth": "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv100/6f5ddc019cbe424babc0360465e8a53b.json",
+        "BP": {
+            "bp_sys": 125,
+            "bp_dia": 74
+        }
+    },
+    "subject76": {
+        "video": [
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv100/771404a5776240a784cecd70f1bf17c2_1.mp4",
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv100/771404a5776240a784cecd70f1bf17c2_2.mp4"
+        ],
+        "ground_truth": "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv100/771404a5776240a784cecd70f1bf17c2.json",
+        "BP": {
+            "bp_sys": 137,
+            "bp_dia": 82
+        }
+    },
+    "subject77": {
+        "video": [
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv100/77990cb03bde4560aee06dcb18331f5e_1.mp4",
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv100/77990cb03bde4560aee06dcb18331f5e_2.mp4"
+        ],
+        "ground_truth": "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv100/77990cb03bde4560aee06dcb18331f5e.json",
+        "BP": {
+            "bp_sys": 146,
+            "bp_dia": 65
+        }
+    },
+    "subject78": {
+        "video": [
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv100/7c6e77801715410d934c3ccb109d0be6_1.mp4",
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv100/7c6e77801715410d934c3ccb109d0be6_2.mp4"
+        ],
+        "ground_truth": "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv100/7c6e77801715410d934c3ccb109d0be6.json",
+        "BP": {
+            "bp_sys": 155,
+            "bp_dia": 85
+        }
+    },
+    "subject79": {
+        "video": [
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv100/85968bc72d044fd49c0357b643db4a60_1.mp4",
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv100/85968bc72d044fd49c0357b643db4a60_2.mp4"
+        ],
+        "ground_truth": "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv100/85968bc72d044fd49c0357b643db4a60.json",
+        "BP": {
+            "bp_sys": 116,
+            "bp_dia": 77
+        }
+    },
+    "subject80": {
+        "video": [
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv100/88111f3c91e9427ab138839b2a9d0d44_1.mp4",
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv100/88111f3c91e9427ab138839b2a9d0d44_2.mp4"
+        ],
+        "ground_truth": "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv100/88111f3c91e9427ab138839b2a9d0d44.json",
+        "BP": {
+            "bp_sys": 140,
+            "bp_dia": 78
+        }
+    },
+    "subject81": {
+        "video": [
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv100/89fa7b6ad4d143d2a24917b4a282b568_1.mp4",
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv100/89fa7b6ad4d143d2a24917b4a282b568_2.mp4"
+        ],
+        "ground_truth": "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv100/89fa7b6ad4d143d2a24917b4a282b568.json",
+        "BP": {
+            "bp_sys": 89,
+            "bp_dia": 54
+        }
+    },
+    "subject82": {
+        "video": [
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv100/8deefacbd26d4f619abc3379a940fd9e_1.mp4",
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv100/8deefacbd26d4f619abc3379a940fd9e_2.mp4"
+        ],
+        "ground_truth": "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv100/8deefacbd26d4f619abc3379a940fd9e.json",
+        "BP": {
+            "bp_sys": 102,
+            "bp_dia": 68
+        }
+    },
+    "subject83": {
+        "video": [
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv100/962737c956724d43b8580af894ac100b_1.mp4",
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv100/962737c956724d43b8580af894ac100b_2.mp4"
+        ],
+        "ground_truth": "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv100/962737c956724d43b8580af894ac100b.json",
+        "BP": {
+            "bp_sys": 100,
+            "bp_dia": 66
+        }
+    },
+    "subject84": {
+        "video": [
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv100/a2724fc11e5e4a3fac249dc0ada556cc_1.mp4",
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv100/a2724fc11e5e4a3fac249dc0ada556cc_2.mp4"
+        ],
+        "ground_truth": "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv100/a2724fc11e5e4a3fac249dc0ada556cc.json",
+        "BP": {
+            "bp_sys": 117,
+            "bp_dia": 70
+        }
+    },
+    "subject85": {
+        "video": [
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv100/a7f263bf0f3a4dc28d0d8efa0bc4090a_1.mp4",
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv100/a7f263bf0f3a4dc28d0d8efa0bc4090a_2.mp4"
+        ],
+        "ground_truth": "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv100/a7f263bf0f3a4dc28d0d8efa0bc4090a.json",
+        "BP": {
+            "bp_sys": 147,
+            "bp_dia": 90
+        }
+    },
+    "subject86": {
+        "video": [
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv100/a9b381cc7004450a947a80f5992e5602_1.mp4",
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv100/a9b381cc7004450a947a80f5992e5602_2.mp4"
+        ],
+        "ground_truth": "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv100/a9b381cc7004450a947a80f5992e5602.json",
+        "BP": {
+            "bp_sys": 119,
+            "bp_dia": 77
+        }
+    },
+    "subject87": {
+        "video": [
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv100/b0e248c373ac4932a2dc95d3b4d7701c_1.mp4",
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv100/b0e248c373ac4932a2dc95d3b4d7701c_2.mp4"
+        ],
+        "ground_truth": "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv100/b0e248c373ac4932a2dc95d3b4d7701c.json",
+        "BP": {
+            "bp_sys": 132,
+            "bp_dia": 100
+        }
+    },
+    "subject88": {
+        "video": [
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv100/b4afa6c36cb0491aa16d9c0e89f91fb7_1.mp4",
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv100/b4afa6c36cb0491aa16d9c0e89f91fb7_2.mp4"
+        ],
+        "ground_truth": "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv100/b4afa6c36cb0491aa16d9c0e89f91fb7.json",
+        "BP": {
+            "bp_sys": 110,
+            "bp_dia": 66
+        }
+    },
+    "subject89": {
+        "video": [
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv100/b8819c1081a142f3809d1cdf810dc95c_1.mp4",
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv100/b8819c1081a142f3809d1cdf810dc95c_2.mp4"
+        ],
+        "ground_truth": "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv100/b8819c1081a142f3809d1cdf810dc95c.json",
+        "BP": {
+            "bp_sys": 127,
+            "bp_dia": 72
+        }
+    },
+    "subject90": {
+        "video": [
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv100/ba17778fd8c441659d2c9d0142153c5d_1.mp4",
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv100/ba17778fd8c441659d2c9d0142153c5d_2.mp4"
+        ],
+        "ground_truth": "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv100/ba17778fd8c441659d2c9d0142153c5d.json",
+        "BP": {
+            "bp_sys": 137,
+            "bp_dia": 84
+        }
+    },
+    "subject91": {
+        "video": [
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv100/c193543bdc5d49998b8ff92c3b673d05_1.mp4",
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv100/c193543bdc5d49998b8ff92c3b673d05_2.mp4"
+        ],
+        "ground_truth": "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv100/c193543bdc5d49998b8ff92c3b673d05.json",
+        "BP": {
+            "bp_sys": 137,
+            "bp_dia": 74
+        }
+    },
+    "subject92": {
+        "video": [
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv100/c40ba3e92d454869b1180ac10e6c7d46_1.mp4",
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv100/c40ba3e92d454869b1180ac10e6c7d46_2.mp4"
+        ],
+        "ground_truth": "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv100/c40ba3e92d454869b1180ac10e6c7d46.json",
+        "BP": {
+            "bp_sys": 91,
+            "bp_dia": 68
+        }
+    },
+    "subject93": {
+        "video": [
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv100/c5470a1f14a2479fb37dc999554e8c1c_1.mp4",
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv100/c5470a1f14a2479fb37dc999554e8c1c_2.mp4"
+        ],
+        "ground_truth": "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv100/c5470a1f14a2479fb37dc999554e8c1c.json",
+        "BP": {
+            "bp_sys": 142,
+            "bp_dia": 79
+        }
+    },
+    "subject94": {
+        "video": [
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv100/c91d739687a94583a1e23f6662fb0903_1.mp4",
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv100/c91d739687a94583a1e23f6662fb0903_2.mp4"
+        ],
+        "ground_truth": "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv100/c91d739687a94583a1e23f6662fb0903.json",
+        "BP": {
+            "bp_sys": 126,
+            "bp_dia": 84
+        }
+    },
+    "subject95": {
+        "video": [
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv100/cbb798d3e68d4dce832b9aeeac24c68d_1.mp4",
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv100/cbb798d3e68d4dce832b9aeeac24c68d_2.mp4"
+        ],
+        "ground_truth": "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv100/cbb798d3e68d4dce832b9aeeac24c68d.json",
+        "BP": {
+            "bp_sys": 107,
+            "bp_dia": 74
+        }
+    },
+    "subject96": {
+        "video": [
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv100/cf3299a0814448c18f75fe46a9032ee9_1.mp4",
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv100/cf3299a0814448c18f75fe46a9032ee9_2.mp4"
+        ],
+        "ground_truth": "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv100/cf3299a0814448c18f75fe46a9032ee9.json",
+        "BP": {
+            "bp_sys": 138,
+            "bp_dia": 79
+        }
+    },
+    "subject97": {
+        "video": [
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv100/d4e2ef615b6848b6a9ff170cd94517e2_1.mp4",
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv100/d4e2ef615b6848b6a9ff170cd94517e2_2.mp4"
+        ],
+        "ground_truth": "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv100/d4e2ef615b6848b6a9ff170cd94517e2.json",
+        "BP": {
+            "bp_sys": 135,
+            "bp_dia": 86
+        }
+    },
+    "subject98": {
+        "video": [
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv100/d6d12cf306d0495a9a84aa066da8baf7_1.mp4",
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv100/d6d12cf306d0495a9a84aa066da8baf7_2.mp4"
+        ],
+        "ground_truth": "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv100/d6d12cf306d0495a9a84aa066da8baf7.json",
+        "BP": {
+            "bp_sys": 174,
+            "bp_dia": 85
+        }
+    },
+    "subject99": {
+        "video": [
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv100/df65b372e3364d599b27496e617d5a50_1.mp4",
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv100/df65b372e3364d599b27496e617d5a50_2.mp4"
+        ],
+        "ground_truth": "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv100/df65b372e3364d599b27496e617d5a50.json",
+        "BP": {
+            "bp_sys": 158,
+            "bp_dia": 99
+        }
+    },
+    "subject100": {
+        "video": [
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/a7a1d564b44a445499b0bb2dbb261023_1.mp4",
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/a7a1d564b44a445499b0bb2dbb261023_2.mp4"
+        ],
+        "ground_truth": "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/a7a1d564b44a445499b0bb2dbb261023.json",
+        "BP": {
+            "bp_sys": 161,
+            "bp_dia": 83
+        }
+    },
+    "subject101": {
+        "video": [
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/a858a29b444141d784694ea5447f7879_1.mp4",
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/a858a29b444141d784694ea5447f7879_2.mp4"
+        ],
+        "ground_truth": "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/a858a29b444141d784694ea5447f7879.json",
+        "BP": {
+            "bp_sys": 106,
+            "bp_dia": 64
+        }
+    },
+    "subject102": {
+        "video": [
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/aa23de055f0b4a0d857f4789eeda3d27_1.mp4",
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/aa23de055f0b4a0d857f4789eeda3d27_2.mp4"
+        ],
+        "ground_truth": "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/aa23de055f0b4a0d857f4789eeda3d27.json",
+        "BP": {
+            "bp_sys": 114,
+            "bp_dia": 77
+        }
+    },
+    "subject103": {
+        "video": [
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/abc055412f65423ead243bf473afa7bd_1.mp4",
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/abc055412f65423ead243bf473afa7bd_2.mp4"
+        ],
+        "ground_truth": "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/abc055412f65423ead243bf473afa7bd.json",
+        "BP": {
+            "bp_sys": 167,
+            "bp_dia": 99
+        }
+    },
+    "subject104": {
+        "video": [
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/aec26ef47a614d87be84b0940ac59ea2_1.mp4",
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/aec26ef47a614d87be84b0940ac59ea2_2.mp4"
+        ],
+        "ground_truth": "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/aec26ef47a614d87be84b0940ac59ea2.json",
+        "BP": {
+            "bp_sys": 135,
+            "bp_dia": 78
+        }
+    },
+    "subject105": {
+        "video": [
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/b13e84ae01bc45f88650e9b1098567bd_1.mp4",
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/b13e84ae01bc45f88650e9b1098567bd_2.mp4"
+        ],
+        "ground_truth": "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/b13e84ae01bc45f88650e9b1098567bd.json",
+        "BP": {
+            "bp_sys": 155,
+            "bp_dia": 92
+        }
+    },
+    "subject106": {
+        "video": [
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/b1948d2255fa41609f784b2573e1660d_1.mp4",
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/b1948d2255fa41609f784b2573e1660d_2.mp4"
+        ],
+        "ground_truth": "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/b1948d2255fa41609f784b2573e1660d.json",
+        "BP": {
+            "bp_sys": 163,
+            "bp_dia": 60
+        }
+    },
+    "subject107": {
+        "video": [
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/b1e186af80b34006b41305757c055878_1.mp4",
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/b1e186af80b34006b41305757c055878_2.mp4"
+        ],
+        "ground_truth": "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/b1e186af80b34006b41305757c055878.json",
+        "BP": {
+            "bp_sys": 160,
+            "bp_dia": 85
+        }
+    },
+    "subject108": {
+        "video": [
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/00572e16721e4084a36a530d5d37c4fe_1.mp4",
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/00572e16721e4084a36a530d5d37c4fe_2.mp4"
+        ],
+        "ground_truth": "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/00572e16721e4084a36a530d5d37c4fe.json",
+        "BP": {
+            "bp_sys": 126,
+            "bp_dia": 76
+        }
+    },
+    "subject109": {
+        "video": [
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/0260159ec5d44ba0ba804962ce7e0780_1.mp4",
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/0260159ec5d44ba0ba804962ce7e0780_2.mp4"
+        ],
+        "ground_truth": "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/0260159ec5d44ba0ba804962ce7e0780.json",
+        "BP": {
+            "bp_sys": 165,
+            "bp_dia": 107
+        }
+    },
+    "subject110": {
+        "video": [
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/02dd4b73627b43ecaab93d9546042972_1.mp4",
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/02dd4b73627b43ecaab93d9546042972_2.mp4"
+        ],
+        "ground_truth": "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/02dd4b73627b43ecaab93d9546042972.json",
+        "BP": {
+            "bp_sys": 137,
+            "bp_dia": 76
+        }
+    },
+    "subject111": {
+        "video": [
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/04fd763998a84a25b188f1d25d2de347_1.mp4",
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/04fd763998a84a25b188f1d25d2de347_2.mp4"
+        ],
+        "ground_truth": "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/04fd763998a84a25b188f1d25d2de347.json",
+        "BP": {
+            "bp_sys": 166,
+            "bp_dia": 105
+        }
+    },
+    "subject112": {
+        "video": [
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/05cc2ecca44749f1b5082f2d62556bb0_1.mp4",
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/05cc2ecca44749f1b5082f2d62556bb0_2.mp4"
+        ],
+        "ground_truth": "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/05cc2ecca44749f1b5082f2d62556bb0.json",
+        "BP": {
+            "bp_sys": 165,
+            "bp_dia": 91
+        }
+    },
+    "subject113": {
+        "video": [
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/09b4516af71041e6a8abb478e68ec943_1.mp4",
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/09b4516af71041e6a8abb478e68ec943_2.mp4"
+        ],
+        "ground_truth": "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/09b4516af71041e6a8abb478e68ec943.json",
+        "BP": {
+            "bp_sys": 172,
+            "bp_dia": 111
+        }
+    },
+    "subject114": {
+        "video": [
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/0a8ab78a2c1e44718a467c400e78a910_1.mp4",
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/0a8ab78a2c1e44718a467c400e78a910_2.mp4"
+        ],
+        "ground_truth": "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/0a8ab78a2c1e44718a467c400e78a910.json",
+        "BP": {
+            "bp_sys": 137,
+            "bp_dia": 84
+        }
+    },
+    "subject115": {
+        "video": [
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/0d0ed387f25d474790abb987e31bee9d_1.mp4",
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/0d0ed387f25d474790abb987e31bee9d_2.mp4"
+        ],
+        "ground_truth": "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/0d0ed387f25d474790abb987e31bee9d.json",
+        "BP": {
+            "bp_sys": 160,
+            "bp_dia": 95
+        }
+    },
+    "subject116": {
+        "video": [
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/0d7ecd7093334a128c2fec921b206e8e_1.mp4",
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/0d7ecd7093334a128c2fec921b206e8e_2.mp4"
+        ],
+        "ground_truth": "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/0d7ecd7093334a128c2fec921b206e8e.json",
+        "BP": {
+            "bp_sys": 136,
+            "bp_dia": 91
+        }
+    },
+    "subject117": {
+        "video": [
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/10015c77e7e442eeab0f373d95458bad_1.mp4",
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/10015c77e7e442eeab0f373d95458bad_2.mp4"
+        ],
+        "ground_truth": "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/10015c77e7e442eeab0f373d95458bad.json",
+        "BP": {
+            "bp_sys": 138,
+            "bp_dia": 70
+        }
+    },
+    "subject118": {
+        "video": [
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/11431cda55ee488985390c339f014827_1.mp4",
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/11431cda55ee488985390c339f014827_2.mp4"
+        ],
+        "ground_truth": "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/11431cda55ee488985390c339f014827.json",
+        "BP": {
+            "bp_sys": 127,
+            "bp_dia": 86
+        }
+    },
+    "subject119": {
+        "video": [
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/14dbe5f06251406d91f18036361e1256_1.mp4",
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/14dbe5f06251406d91f18036361e1256_2.mp4"
+        ],
+        "ground_truth": "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/14dbe5f06251406d91f18036361e1256.json",
+        "BP": {
+            "bp_sys": 138,
+            "bp_dia": 73
+        }
+    },
+    "subject120": {
+        "video": [
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/9992713d252f45ae955150054e160006_1.mp4",
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/9992713d252f45ae955150054e160006_2.mp4"
+        ],
+        "ground_truth": "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/9992713d252f45ae955150054e160006.json",
+        "BP": {
+            "bp_sys": 163,
+            "bp_dia": 75
+        }
+    },
+    "subject121": {
+        "video": [
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/9c382f998b274c1ca7b24de3538b18d6_1.mp4",
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/9c382f998b274c1ca7b24de3538b18d6_2.mp4"
+        ],
+        "ground_truth": "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/9c382f998b274c1ca7b24de3538b18d6.json",
+        "BP": {
+            "bp_sys": 102,
+            "bp_dia": 73
+        }
+    },
+    "subject122": {
+        "video": [
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/9f74341e23a84b59b13b72ef26c676f9_1.mp4",
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/9f74341e23a84b59b13b72ef26c676f9_2.mp4"
+        ],
+        "ground_truth": "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/9f74341e23a84b59b13b72ef26c676f9.json",
+        "BP": {
+            "bp_sys": 197,
+            "bp_dia": 118
+        }
+    },
+    "subject123": {
+        "video": [
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/1503c0d32bd74309810e092ce79dce7a_1.mp4",
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/1503c0d32bd74309810e092ce79dce7a_2.mp4"
+        ],
+        "ground_truth": "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/1503c0d32bd74309810e092ce79dce7a.json",
+        "BP": {
+            "bp_sys": 161,
+            "bp_dia": 78
+        }
+    },
+    "subject124": {
+        "video": [
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/154ae0e22bd3497d994de3bcac95a9dc_1.mp4",
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/154ae0e22bd3497d994de3bcac95a9dc_2.mp4"
+        ],
+        "ground_truth": "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/154ae0e22bd3497d994de3bcac95a9dc.json",
+        "BP": {
+            "bp_sys": 128,
+            "bp_dia": 57
+        }
+    },
+    "subject125": {
+        "video": [
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/15b29e80caab46ac8ba2218a92661d67_1.mp4",
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/15b29e80caab46ac8ba2218a92661d67_2.mp4"
+        ],
+        "ground_truth": "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/15b29e80caab46ac8ba2218a92661d67.json",
+        "BP": {
+            "bp_sys": 116,
+            "bp_dia": 74
+        }
+    },
+    "subject126": {
+        "video": [
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/1754f2a38e294a3da3a8ad22434f5574_1.mp4",
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/1754f2a38e294a3da3a8ad22434f5574_2.mp4"
+        ],
+        "ground_truth": "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/1754f2a38e294a3da3a8ad22434f5574.json",
+        "BP": {
+            "bp_sys": 138,
+            "bp_dia": 89
+        }
+    },
+    "subject127": {
+        "video": [
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/1808a805d8d34fe3b2eb2f8a9a6307db_1.mp4",
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/1808a805d8d34fe3b2eb2f8a9a6307db_2.mp4"
+        ],
+        "ground_truth": "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/1808a805d8d34fe3b2eb2f8a9a6307db.json",
+        "BP": {
+            "bp_sys": 154,
+            "bp_dia": 84
+        }
+    },
+    "subject128": {
+        "video": [
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/18584e2590cf4946a9d7d05b4c498f31_1.mp4",
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/18584e2590cf4946a9d7d05b4c498f31_2.mp4"
+        ],
+        "ground_truth": "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/18584e2590cf4946a9d7d05b4c498f31.json",
+        "BP": {
+            "bp_sys": 175,
+            "bp_dia": 84
+        }
+    },
+    "subject129": {
+        "video": [
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/18f9611d16e84cf98d787d24042257b8_1.mp4",
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/18f9611d16e84cf98d787d24042257b8_2.mp4"
+        ],
+        "ground_truth": "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/18f9611d16e84cf98d787d24042257b8.json",
+        "BP": {
+            "bp_sys": 150,
+            "bp_dia": 87
+        }
+    },
+    "subject130": {
+        "video": [
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/1c21e926759b4187bf5a844e4e49d355_1.mp4",
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/1c21e926759b4187bf5a844e4e49d355_2.mp4"
+        ],
+        "ground_truth": "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/1c21e926759b4187bf5a844e4e49d355.json",
+        "BP": {
+            "bp_sys": 136,
+            "bp_dia": 74
+        }
+    },
+    "subject131": {
+        "video": [
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/1d56c045f90a4618b35d5655468dc37e_1.mp4",
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/1d56c045f90a4618b35d5655468dc37e_2.mp4"
+        ],
+        "ground_truth": "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/1d56c045f90a4618b35d5655468dc37e.json",
+        "BP": {
+            "bp_sys": 156,
+            "bp_dia": 78
+        }
+    },
+    "subject132": {
+        "video": [
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/1d5e942bd5c2446994512210c2d46ac9_1.mp4",
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/1d5e942bd5c2446994512210c2d46ac9_2.mp4"
+        ],
+        "ground_truth": "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/1d5e942bd5c2446994512210c2d46ac9.json",
+        "BP": {
+            "bp_sys": 131,
+            "bp_dia": 74
+        }
+    },
+    "subject133": {
+        "video": [
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/1d8cde1efbba497b803cc8be14ece8e8_1.mp4",
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/1d8cde1efbba497b803cc8be14ece8e8_2.mp4",
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/1d8cde1efbba497b803cc8be14ece8e8_3.mp4"
+        ],
+        "ground_truth": "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/1d8cde1efbba497b803cc8be14ece8e8.json",
+        "BP": {
+            "bp_sys": 103,
+            "bp_dia": 56
+        }
+    },
+    "subject134": {
+        "video": [
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/1dadedb625284d9e89191219c9aa33b9_1.mp4",
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/1dadedb625284d9e89191219c9aa33b9_2.mp4"
+        ],
+        "ground_truth": "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/1dadedb625284d9e89191219c9aa33b9.json",
+        "BP": {
+            "bp_sys": 98,
+            "bp_dia": 69
+        }
+    },
+    "subject135": {
+        "video": [
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/1dfc60ed6288443ab675fc09afc135e9_1.mp4",
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/1dfc60ed6288443ab675fc09afc135e9_2.mp4"
+        ],
+        "ground_truth": "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/1dfc60ed6288443ab675fc09afc135e9.json",
+        "BP": {
+            "bp_sys": 143,
+            "bp_dia": 80
+        }
+    },
+    "subject136": {
+        "video": [
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/222082b237be4e859d83ca4df6615a6a_1.mp4",
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/222082b237be4e859d83ca4df6615a6a_2.mp4"
+        ],
+        "ground_truth": "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/222082b237be4e859d83ca4df6615a6a.json",
+        "BP": {
+            "bp_sys": 130,
+            "bp_dia": 74
+        }
+    },
+    "subject137": {
+        "video": [
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/223b0f417d584c44a6e7d8542bd6cf4f_1.mp4",
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/223b0f417d584c44a6e7d8542bd6cf4f_2.mp4"
+        ],
+        "ground_truth": "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/223b0f417d584c44a6e7d8542bd6cf4f.json",
+        "BP": {
+            "bp_sys": 137,
+            "bp_dia": 86
+        }
+    },
+    "subject138": {
+        "video": [
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/22d9dcce76214d8f8305c9070d5b122d_1.mp4",
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/22d9dcce76214d8f8305c9070d5b122d_2.mp4"
+        ],
+        "ground_truth": "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/22d9dcce76214d8f8305c9070d5b122d.json",
+        "BP": {
+            "bp_sys": 113,
+            "bp_dia": 78
+        }
+    },
+    "subject139": {
+        "video": [
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/23e570c7446440c3b77b3e438c047b77_1.mp4",
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/23e570c7446440c3b77b3e438c047b77_2.mp4"
+        ],
+        "ground_truth": "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/23e570c7446440c3b77b3e438c047b77.json",
+        "BP": {
+            "bp_sys": 119,
+            "bp_dia": 70
+        }
+    },
+    "subject140": {
+        "video": [
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/23f2274ac682429c9dcc094b7bd5df34_1.mp4",
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/23f2274ac682429c9dcc094b7bd5df34_2.mp4"
+        ],
+        "ground_truth": "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/23f2274ac682429c9dcc094b7bd5df34.json",
+        "BP": {
+            "bp_sys": 183,
+            "bp_dia": 114
+        }
+    },
+    "subject141": {
+        "video": [
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/27f32a39b913429d90d8cdd68d1f869d_1.mp4",
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/27f32a39b913429d90d8cdd68d1f869d_2.mp4"
+        ],
+        "ground_truth": "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/27f32a39b913429d90d8cdd68d1f869d.json",
+        "BP": {
+            "bp_sys": 164,
+            "bp_dia": 87
+        }
+    },
+    "subject142": {
+        "video": [
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/2a85f65bb72148a1acf64e78b171634c_1.mp4",
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/2a85f65bb72148a1acf64e78b171634c_2.mp4"
+        ],
+        "ground_truth": "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/2a85f65bb72148a1acf64e78b171634c.json",
+        "BP": {
+            "bp_sys": 127,
+            "bp_dia": 83
+        }
+    },
+    "subject143": {
+        "video": [
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/2b7b8366184b401aa1af5259b9a90d66_1.mp4",
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/2b7b8366184b401aa1af5259b9a90d66_2.mp4"
+        ],
+        "ground_truth": "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/2b7b8366184b401aa1af5259b9a90d66.json",
+        "BP": {
+            "bp_sys": 153,
+            "bp_dia": 86
+        }
+    },
+    "subject144": {
+        "video": [
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/2c2b2dc2586e4184b142656bba9ff593_1.mp4",
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/2c2b2dc2586e4184b142656bba9ff593_2.mp4"
+        ],
+        "ground_truth": "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/2c2b2dc2586e4184b142656bba9ff593.json",
+        "BP": {
+            "bp_sys": 135,
+            "bp_dia": 87
+        }
+    },
+    "subject145": {
+        "video": [
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/2df7e49284bf4c21acec7fec732eae8b_1.mp4",
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/2df7e49284bf4c21acec7fec732eae8b_2.mp4"
+        ],
+        "ground_truth": "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/2df7e49284bf4c21acec7fec732eae8b.json",
+        "BP": {
+            "bp_sys": 129,
+            "bp_dia": 77
+        }
+    },
+    "subject146": {
+        "video": [
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/2ed474d51a164be4b8c76cca5bcfa5f2_1.mp4",
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/2ed474d51a164be4b8c76cca5bcfa5f2_2.mp4"
+        ],
+        "ground_truth": "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/2ed474d51a164be4b8c76cca5bcfa5f2.json",
+        "BP": {
+            "bp_sys": 136,
+            "bp_dia": 80
+        }
+    },
+    "subject147": {
+        "video": [
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/3030132249b44cb8922c6f7708b5bd03_1.mp4",
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/3030132249b44cb8922c6f7708b5bd03_2.mp4",
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/3030132249b44cb8922c6f7708b5bd03_3.mp4"
+        ],
+        "ground_truth": "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/3030132249b44cb8922c6f7708b5bd03.json",
+        "BP": {
+            "bp_sys": 166,
+            "bp_dia": 75
+        }
+    },
+    "subject148": {
+        "video": [
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/338144ab841a4ba4b2e69f9b04196edd_1.mp4",
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/338144ab841a4ba4b2e69f9b04196edd_2.mp4"
+        ],
+        "ground_truth": "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/338144ab841a4ba4b2e69f9b04196edd.json",
+        "BP": {
+            "bp_sys": 132,
+            "bp_dia": 82
+        }
+    },
+    "subject149": {
+        "video": [
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/352579ebb9f6400e8127a2ad09f6c6cf_1.mp4",
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/352579ebb9f6400e8127a2ad09f6c6cf_2.mp4"
+        ],
+        "ground_truth": "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/352579ebb9f6400e8127a2ad09f6c6cf.json",
+        "BP": {
+            "bp_sys": 158,
+            "bp_dia": 85
+        }
+    },
+    "subject150": {
+        "video": [
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/35c1747f80ef45ceb7ee9a7962581696_1.mp4",
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/35c1747f80ef45ceb7ee9a7962581696_2.mp4"
+        ],
+        "ground_truth": "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/35c1747f80ef45ceb7ee9a7962581696.json",
+        "BP": {
+            "bp_sys": 162,
+            "bp_dia": 94
+        }
+    },
+    "subject151": {
+        "video": [
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/3606939596de40f48c36964bfa91d074_1.mp4",
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/3606939596de40f48c36964bfa91d074_2.mp4"
+        ],
+        "ground_truth": "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/3606939596de40f48c36964bfa91d074.json",
+        "BP": {
+            "bp_sys": 153,
+            "bp_dia": 106
+        }
+    },
+    "subject152": {
+        "video": [
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/37fc91f892c14dbc80e29ced0b4aab91_1.mp4",
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/37fc91f892c14dbc80e29ced0b4aab91_2.mp4"
+        ],
+        "ground_truth": "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/37fc91f892c14dbc80e29ced0b4aab91.json",
+        "BP": {
+            "bp_sys": 150,
+            "bp_dia": 79
+        }
+    },
+    "subject153": {
+        "video": [
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/3ae48341de794e7f816076e8fef120c0_1.mp4",
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/3ae48341de794e7f816076e8fef120c0_2.mp4"
+        ],
+        "ground_truth": "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/3ae48341de794e7f816076e8fef120c0.json",
+        "BP": {
+            "bp_sys": 158,
+            "bp_dia": 93
+        }
+    },
+    "subject154": {
+        "video": [
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/3db20601c66a4c1193291e7f9c41fddc_1.mp4",
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/3db20601c66a4c1193291e7f9c41fddc_2.mp4"
+        ],
+        "ground_truth": "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/3db20601c66a4c1193291e7f9c41fddc.json",
+        "BP": {
+            "bp_sys": 144,
+            "bp_dia": 75
+        }
+    },
+    "subject155": {
+        "video": [
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/4030e179b6d44226ac7ad717722f1d10_1.mp4",
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/4030e179b6d44226ac7ad717722f1d10_2.mp4"
+        ],
+        "ground_truth": "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/4030e179b6d44226ac7ad717722f1d10.json",
+        "BP": {
+            "bp_sys": 121,
+            "bp_dia": 78
+        }
+    },
+    "subject156": {
+        "video": [
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/422d992bb188450b83417aa6c102f7ad_1.mp4",
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/422d992bb188450b83417aa6c102f7ad_2.mp4"
+        ],
+        "ground_truth": "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/422d992bb188450b83417aa6c102f7ad.json",
+        "BP": {
+            "bp_sys": 92,
+            "bp_dia": 62
+        }
+    },
+    "subject157": {
+        "video": [
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/423c29e10bb24ca0aa4dd1619bb0d06e_1.mp4",
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/423c29e10bb24ca0aa4dd1619bb0d06e_2.mp4"
+        ],
+        "ground_truth": "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/423c29e10bb24ca0aa4dd1619bb0d06e.json",
+        "BP": {
+            "bp_sys": 121,
+            "bp_dia": 83
+        }
+    },
+    "subject158": {
+        "video": [
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/43bc220740084fd496e94efba71b867e_1.mp4",
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/43bc220740084fd496e94efba71b867e_2.mp4"
+        ],
+        "ground_truth": "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/43bc220740084fd496e94efba71b867e.json",
+        "BP": {
+            "bp_sys": 163,
+            "bp_dia": 98
+        }
+    },
+    "subject159": {
+        "video": [
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/44bebc9d786a4b72b7f22c260a9782ff_1.mp4",
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/44bebc9d786a4b72b7f22c260a9782ff_2.mp4"
+        ],
+        "ground_truth": "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/44bebc9d786a4b72b7f22c260a9782ff.json",
+        "BP": {
+            "bp_sys": 178,
+            "bp_dia": 107
+        }
+    },
+    "subject160": {
+        "video": [
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/44d16d87a95a45f18c109d6e3701a165_1.mp4",
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/44d16d87a95a45f18c109d6e3701a165_2.mp4"
+        ],
+        "ground_truth": "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/44d16d87a95a45f18c109d6e3701a165.json",
+        "BP": {
+            "bp_sys": 154,
+            "bp_dia": 68
+        }
+    },
+    "subject161": {
+        "video": [
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/4537a2c998e54aa09de8745f0b701016_1.mp4",
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/4537a2c998e54aa09de8745f0b701016_2.mp4"
+        ],
+        "ground_truth": "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/4537a2c998e54aa09de8745f0b701016.json",
+        "BP": {
+            "bp_sys": 111,
+            "bp_dia": 76
+        }
+    },
+    "subject162": {
+        "video": [
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/460d17f8752e4f78964a88e9148de615_1.mp4",
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/460d17f8752e4f78964a88e9148de615_2.mp4"
+        ],
+        "ground_truth": "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/460d17f8752e4f78964a88e9148de615.json",
+        "BP": {
+            "bp_sys": 149,
+            "bp_dia": 83
+        }
+    },
+    "subject163": {
+        "video": [
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/46f173e320754153abfecadbdce91545_1.mp4",
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/46f173e320754153abfecadbdce91545_2.mp4"
+        ],
+        "ground_truth": "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/46f173e320754153abfecadbdce91545.json",
+        "BP": {
+            "bp_sys": 153,
+            "bp_dia": 71
+        }
+    },
+    "subject164": {
+        "video": [
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/47220d652a0f499eb3f6f95e1b77a8aa_1.mp4",
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/47220d652a0f499eb3f6f95e1b77a8aa_2.mp4"
+        ],
+        "ground_truth": "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/47220d652a0f499eb3f6f95e1b77a8aa.json",
+        "BP": {
+            "bp_sys": 108,
+            "bp_dia": 76
+        }
+    },
+    "subject165": {
+        "video": [
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/48a3e3336288490880c82608a8b13ad9_1.mp4",
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/48a3e3336288490880c82608a8b13ad9_2.mp4"
+        ],
+        "ground_truth": "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/48a3e3336288490880c82608a8b13ad9.json",
+        "BP": {
+            "bp_sys": 161,
+            "bp_dia": 103
+        }
+    },
+    "subject166": {
+        "video": [
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/4b47d3d7d1a0436ab9209d88420e6414_1.mp4",
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/4b47d3d7d1a0436ab9209d88420e6414_2.mp4"
+        ],
+        "ground_truth": "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/4b47d3d7d1a0436ab9209d88420e6414.json",
+        "BP": {
+            "bp_sys": 137,
+            "bp_dia": 77
+        }
+    },
+    "subject167": {
+        "video": [
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/4bff51aeb7304f1e97cd10d9b656ddab_1.mp4",
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/4bff51aeb7304f1e97cd10d9b656ddab_2.mp4"
+        ],
+        "ground_truth": "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/4bff51aeb7304f1e97cd10d9b656ddab.json",
+        "BP": {
+            "bp_sys": 132,
+            "bp_dia": 89
+        }
+    },
+    "subject168": {
+        "video": [
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/4c2fa6d40bac4766a121e9d85b064897_1.mp4",
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/4c2fa6d40bac4766a121e9d85b064897_2.mp4"
+        ],
+        "ground_truth": "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/4c2fa6d40bac4766a121e9d85b064897.json",
+        "BP": {
+            "bp_sys": 132,
+            "bp_dia": 76
+        }
+    },
+    "subject169": {
+        "video": [
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/4c67fb5e6c3a45aaad4f1537d1112b6f_1.mp4",
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/4c67fb5e6c3a45aaad4f1537d1112b6f_2.mp4"
+        ],
+        "ground_truth": "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/4c67fb5e6c3a45aaad4f1537d1112b6f.json",
+        "BP": {
+            "bp_sys": 136,
+            "bp_dia": 79
+        }
+    },
+    "subject170": {
+        "video": [
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/4eed9e7c5d074731919033866403ffa4_1.mp4",
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/4eed9e7c5d074731919033866403ffa4_2.mp4"
+        ],
+        "ground_truth": "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/4eed9e7c5d074731919033866403ffa4.json",
+        "BP": {
+            "bp_sys": 88,
+            "bp_dia": 65
+        }
+    },
+    "subject171": {
+        "video": [
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/4f781fdabd5a481ea94530edf31c9c52_1.mp4",
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/4f781fdabd5a481ea94530edf31c9c52_2.mp4"
+        ],
+        "ground_truth": "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/4f781fdabd5a481ea94530edf31c9c52.json",
+        "BP": {
+            "bp_sys": 136,
+            "bp_dia": 88
+        }
+    },
+    "subject172": {
+        "video": [
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/50754fd8dcaf4d1ca36668052915fc77_1.mp4",
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/50754fd8dcaf4d1ca36668052915fc77_2.mp4"
+        ],
+        "ground_truth": "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/50754fd8dcaf4d1ca36668052915fc77.json",
+        "BP": {
+            "bp_sys": 153,
+            "bp_dia": 91
+        }
+    },
+    "subject173": {
+        "video": [
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/50d5abf4b8bd4f00b0bf0b25380902c2_1.mp4",
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/50d5abf4b8bd4f00b0bf0b25380902c2_2.mp4"
+        ],
+        "ground_truth": "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/50d5abf4b8bd4f00b0bf0b25380902c2.json",
+        "BP": {
+            "bp_sys": 137,
+            "bp_dia": 95
+        }
+    },
+    "subject174": {
+        "video": [
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/50f9b3272df0409b8d14cd6615cc7298_1.mp4",
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/50f9b3272df0409b8d14cd6615cc7298_2.mp4"
+        ],
+        "ground_truth": "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/50f9b3272df0409b8d14cd6615cc7298.json",
+        "BP": {
+            "bp_sys": 181,
+            "bp_dia": 109
+        }
+    },
+    "subject175": {
+        "video": [
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/52278ccbc6c94a469a5d08779562cdf3_1.mp4",
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/52278ccbc6c94a469a5d08779562cdf3_2.mp4"
+        ],
+        "ground_truth": "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/52278ccbc6c94a469a5d08779562cdf3.json",
+        "BP": {
+            "bp_sys": 148,
+            "bp_dia": 91
+        }
+    },
+    "subject176": {
+        "video": [
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/55db01ca480548e18e6640e0d77d8e68_1.mp4",
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/55db01ca480548e18e6640e0d77d8e68_2.mp4"
+        ],
+        "ground_truth": "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/55db01ca480548e18e6640e0d77d8e68.json",
+        "BP": {
+            "bp_sys": 92,
+            "bp_dia": 63
+        }
+    },
+    "subject177": {
+        "video": [
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/598cdfabe993444eae1b67c8ee34962a_1.mp4",
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/598cdfabe993444eae1b67c8ee34962a_2.mp4"
+        ],
+        "ground_truth": "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/598cdfabe993444eae1b67c8ee34962a.json",
+        "BP": {
+            "bp_sys": 135,
+            "bp_dia": 72
+        }
+    },
+    "subject178": {
+        "video": [
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/59cf396cb8b946aa9143d5e4b97bec05_1.mp4",
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/59cf396cb8b946aa9143d5e4b97bec05_2.mp4"
+        ],
+        "ground_truth": "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/59cf396cb8b946aa9143d5e4b97bec05.json",
+        "BP": {
+            "bp_sys": 128,
+            "bp_dia": 76
+        }
+    },
+    "subject179": {
+        "video": [
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/59dcd1fc5a004be3b349fd8a0fcaa4a3_1.mp4",
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/59dcd1fc5a004be3b349fd8a0fcaa4a3_2.mp4"
+        ],
+        "ground_truth": "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/59dcd1fc5a004be3b349fd8a0fcaa4a3.json",
+        "BP": {
+            "bp_sys": 132,
+            "bp_dia": 87
+        }
+    },
+    "subject180": {
+        "video": [
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/5c45a01eb70a4e33b4ce7414115f946c_1.mp4",
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/5c45a01eb70a4e33b4ce7414115f946c_2.mp4"
+        ],
+        "ground_truth": "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/5c45a01eb70a4e33b4ce7414115f946c.json",
+        "BP": {
+            "bp_sys": 129,
+            "bp_dia": 83
+        }
+    },
+    "subject181": {
+        "video": [
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/5e1c23f631fd410a8c2e471ad538768c_1.mp4",
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/5e1c23f631fd410a8c2e471ad538768c_2.mp4"
+        ],
+        "ground_truth": "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/5e1c23f631fd410a8c2e471ad538768c.json",
+        "BP": {
+            "bp_sys": 160,
+            "bp_dia": 88
+        }
+    },
+    "subject182": {
+        "video": [
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/5e58eeea5e254bdc9981cea6fb7de389_1.mp4",
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/5e58eeea5e254bdc9981cea6fb7de389_2.mp4"
+        ],
+        "ground_truth": "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/5e58eeea5e254bdc9981cea6fb7de389.json",
+        "BP": {
+            "bp_sys": 138,
+            "bp_dia": 89
+        }
+    },
+    "subject183": {
+        "video": [
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/60576c04bac84c8f9b43c33764268ec1_1.mp4",
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/60576c04bac84c8f9b43c33764268ec1_2.mp4"
+        ],
+        "ground_truth": "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/60576c04bac84c8f9b43c33764268ec1.json",
+        "BP": {
+            "bp_sys": 160,
+            "bp_dia": 86
+        }
+    },
+    "subject184": {
+        "video": [
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/61fe33daf18642c98a52db243fbc1429_1.mp4",
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/61fe33daf18642c98a52db243fbc1429_2.mp4"
+        ],
+        "ground_truth": "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/61fe33daf18642c98a52db243fbc1429.json",
+        "BP": {
+            "bp_sys": 126,
+            "bp_dia": 83
+        }
+    },
+    "subject185": {
+        "video": [
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/62acb6adf355458ca805f3a0562ddfa5_1.mp4",
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/62acb6adf355458ca805f3a0562ddfa5_2.mp4"
+        ],
+        "ground_truth": "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/62acb6adf355458ca805f3a0562ddfa5.json",
+        "BP": {
+            "bp_sys": 135,
+            "bp_dia": 85
+        }
+    },
+    "subject186": {
+        "video": [
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/62b88178e2b14553946032b0ada6a981_1.mp4",
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/62b88178e2b14553946032b0ada6a981_2.mp4"
+        ],
+        "ground_truth": "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/62b88178e2b14553946032b0ada6a981.json",
+        "BP": {
+            "bp_sys": 157,
+            "bp_dia": 107
+        }
+    },
+    "subject187": {
+        "video": [
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/63af6e4202cd467ab81c40b5f48d6b8c_1.mp4",
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/63af6e4202cd467ab81c40b5f48d6b8c_2.mp4"
+        ],
+        "ground_truth": "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/63af6e4202cd467ab81c40b5f48d6b8c.json",
+        "BP": {
+            "bp_sys": 159,
+            "bp_dia": 96
+        }
+    },
+    "subject188": {
+        "video": [
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/6715cad9bab24ec2bb3c8be181d19745_1.mp4",
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/6715cad9bab24ec2bb3c8be181d19745_2.mp4"
+        ],
+        "ground_truth": "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/6715cad9bab24ec2bb3c8be181d19745.json",
+        "BP": {
+            "bp_sys": 133,
+            "bp_dia": 85
+        }
+    },
+    "subject189": {
+        "video": [
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/679cd49d9c6f4569be1d1e694b175fd6_1.mp4",
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/679cd49d9c6f4569be1d1e694b175fd6_2.mp4"
+        ],
+        "ground_truth": "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/679cd49d9c6f4569be1d1e694b175fd6.json",
+        "BP": {
+            "bp_sys": 171,
+            "bp_dia": 80
+        }
+    },
+    "subject190": {
+        "video": [
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/687b3cb2377246c4b05e77c3cf4bacde_1.mp4",
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/687b3cb2377246c4b05e77c3cf4bacde_2.mp4"
+        ],
+        "ground_truth": "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/687b3cb2377246c4b05e77c3cf4bacde.json",
+        "BP": {
+            "bp_sys": 135,
+            "bp_dia": 86
+        }
+    },
+    "subject191": {
+        "video": [
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/68c002f229c44b848b73ccb6f3f6a72d_1.mp4",
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/68c002f229c44b848b73ccb6f3f6a72d_2.mp4"
+        ],
+        "ground_truth": "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/68c002f229c44b848b73ccb6f3f6a72d.json",
+        "BP": {
+            "bp_sys": 154,
+            "bp_dia": 89
+        }
+    },
+    "subject192": {
+        "video": [
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/692ea775f46e4d30b6b44f187d40a9be_1.mp4",
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/692ea775f46e4d30b6b44f187d40a9be_2.mp4"
+        ],
+        "ground_truth": "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/692ea775f46e4d30b6b44f187d40a9be.json",
+        "BP": {
+            "bp_sys": 135,
+            "bp_dia": 84
+        }
+    },
+    "subject193": {
+        "video": [
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/69dd4b4185f24d8fb5aa707eb21cd12a_1.mp4",
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/69dd4b4185f24d8fb5aa707eb21cd12a_2.mp4"
+        ],
+        "ground_truth": "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/69dd4b4185f24d8fb5aa707eb21cd12a.json",
+        "BP": {
+            "bp_sys": 135,
+            "bp_dia": 61
+        }
+    },
+    "subject194": {
+        "video": [
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/6b22dfae3d5e4731b4d16516a7cc7b4c_1.mp4",
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/6b22dfae3d5e4731b4d16516a7cc7b4c_2.mp4"
+        ],
+        "ground_truth": "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/6b22dfae3d5e4731b4d16516a7cc7b4c.json",
+        "BP": {
+            "bp_sys": 94,
+            "bp_dia": 64
+        }
+    },
+    "subject195": {
+        "video": [
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/6bf0015ad3944a629d5603eb81f27f1c_1.mp4",
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/6bf0015ad3944a629d5603eb81f27f1c_2.mp4"
+        ],
+        "ground_truth": "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/6bf0015ad3944a629d5603eb81f27f1c.json",
+        "BP": {
+            "bp_sys": 155,
+            "bp_dia": 78
+        }
+    },
+    "subject196": {
+        "video": [
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/700b60d3200f46bbb3e8909940b63425_1.mp4",
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/700b60d3200f46bbb3e8909940b63425_2.mp4"
+        ],
+        "ground_truth": "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/700b60d3200f46bbb3e8909940b63425.json",
+        "BP": {
+            "bp_sys": 157,
+            "bp_dia": 96
+        }
+    },
+    "subject197": {
+        "video": [
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/703322d009bf478fb81dc821163104cf_1.mp4",
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/703322d009bf478fb81dc821163104cf_2.mp4"
+        ],
+        "ground_truth": "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/703322d009bf478fb81dc821163104cf.json",
+        "BP": {
+            "bp_sys": 128,
+            "bp_dia": 88
+        }
+    },
+    "subject198": {
+        "video": [
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/7076d778657d46bd9da4122839f43e86_1.mp4",
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/7076d778657d46bd9da4122839f43e86_2.mp4"
+        ],
+        "ground_truth": "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/7076d778657d46bd9da4122839f43e86.json",
+        "BP": {
+            "bp_sys": 167,
+            "bp_dia": 102
+        }
+    },
+    "subject199": {
+        "video": [
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/708f83ae0d18476fb08c99620a49a791_1.mp4",
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/708f83ae0d18476fb08c99620a49a791_2.mp4"
+        ],
+        "ground_truth": "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/708f83ae0d18476fb08c99620a49a791.json",
+        "BP": {
+            "bp_sys": 127,
+            "bp_dia": 88
+        }
+    },
+    "subject200": {
+        "video": [
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/7130dd0a909d40ebb9075d3628199079_1.mp4",
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/7130dd0a909d40ebb9075d3628199079_2.mp4"
+        ],
+        "ground_truth": "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/7130dd0a909d40ebb9075d3628199079.json",
+        "BP": {
+            "bp_sys": 158,
+            "bp_dia": 91
+        }
+    },
+    "subject201": {
+        "video": [
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/722f9735a317477f860797cb7002d6bb_1.mp4",
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/722f9735a317477f860797cb7002d6bb_2.mp4"
+        ],
+        "ground_truth": "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/722f9735a317477f860797cb7002d6bb.json",
+        "BP": {
+            "bp_sys": 158,
+            "bp_dia": 87
+        }
+    },
+    "subject202": {
+        "video": [
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/72e020a243f54f0b821c3e3b5074af6e_1.mp4",
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/72e020a243f54f0b821c3e3b5074af6e_2.mp4"
+        ],
+        "ground_truth": "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/72e020a243f54f0b821c3e3b5074af6e.json",
+        "BP": {
+            "bp_sys": 129,
+            "bp_dia": 81
+        }
+    },
+    "subject203": {
+        "video": [
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/73091b99ebce4511a7e18d7622538758_1.mp4",
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/73091b99ebce4511a7e18d7622538758_2.mp4"
+        ],
+        "ground_truth": "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/73091b99ebce4511a7e18d7622538758.json",
+        "BP": {
+            "bp_sys": 155,
+            "bp_dia": 86
+        }
+    },
+    "subject204": {
+        "video": [
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/7421ef8bed5f42fbb543a04acb4e9be0_1.mp4",
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/7421ef8bed5f42fbb543a04acb4e9be0_2.mp4"
+        ],
+        "ground_truth": "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/7421ef8bed5f42fbb543a04acb4e9be0.json",
+        "BP": {
+            "bp_sys": 132,
+            "bp_dia": 74
+        }
+    },
+    "subject205": {
+        "video": [
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/749547a01a1c4df0914e4401d978e691_1.mp4",
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/749547a01a1c4df0914e4401d978e691_2.mp4"
+        ],
+        "ground_truth": "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/749547a01a1c4df0914e4401d978e691.json",
+        "BP": {
+            "bp_sys": 147,
+            "bp_dia": 101
+        }
+    },
+    "subject206": {
+        "video": [
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/74a130feef7d4b7eb19e0485ef6b161d_1.mp4",
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/74a130feef7d4b7eb19e0485ef6b161d_2.mp4"
+        ],
+        "ground_truth": "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/74a130feef7d4b7eb19e0485ef6b161d.json",
+        "BP": {
+            "bp_sys": 157,
+            "bp_dia": 84
+        }
+    },
+    "subject207": {
+        "video": [
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/76e114f796394d0e8c3a4898d3919f45_1.mp4",
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/76e114f796394d0e8c3a4898d3919f45_2.mp4"
+        ],
+        "ground_truth": "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/76e114f796394d0e8c3a4898d3919f45.json",
+        "BP": {
+            "bp_sys": 163,
+            "bp_dia": 100
+        }
+    },
+    "subject208": {
+        "video": [
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/7836bca1ce0d4094bbd5763dd78e0245_1.mp4",
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/7836bca1ce0d4094bbd5763dd78e0245_2.mp4"
+        ],
+        "ground_truth": "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/7836bca1ce0d4094bbd5763dd78e0245.json",
+        "BP": {
+            "bp_sys": 132,
+            "bp_dia": 89
+        }
+    },
+    "subject209": {
+        "video": [
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/796a965fd2db4d9bb1d36d464bc69abb_1.mp4",
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/796a965fd2db4d9bb1d36d464bc69abb_2.mp4"
+        ],
+        "ground_truth": "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/796a965fd2db4d9bb1d36d464bc69abb.json",
+        "BP": {
+            "bp_sys": 126,
+            "bp_dia": 76
+        }
+    },
+    "subject210": {
+        "video": [
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/79db3df39e7f452ab9ab032d5bbd75d7_1.mp4",
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/79db3df39e7f452ab9ab032d5bbd75d7_2.mp4"
+        ],
+        "ground_truth": "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/79db3df39e7f452ab9ab032d5bbd75d7.json",
+        "BP": {
+            "bp_sys": 138,
+            "bp_dia": 81
+        }
+    },
+    "subject211": {
+        "video": [
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/7a87f9fd377e444a85fc51a5562f09cb_1.mp4",
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/7a87f9fd377e444a85fc51a5562f09cb_2.mp4"
+        ],
+        "ground_truth": "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/7a87f9fd377e444a85fc51a5562f09cb.json",
+        "BP": {
+            "bp_sys": 154,
+            "bp_dia": 82
+        }
+    },
+    "subject212": {
+        "video": [
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/7b173f63feb14e889ad56fd1b3494865_1.mp4",
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/7b173f63feb14e889ad56fd1b3494865_2.mp4"
+        ],
+        "ground_truth": "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/7b173f63feb14e889ad56fd1b3494865.json",
+        "BP": {
+            "bp_sys": 132,
+            "bp_dia": 74
+        }
+    },
+    "subject213": {
+        "video": [
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/7ba60653f7a64d4585994df428623600_1.mp4",
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/7ba60653f7a64d4585994df428623600_2.mp4"
+        ],
+        "ground_truth": "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/7ba60653f7a64d4585994df428623600.json",
+        "BP": {
+            "bp_sys": 129,
+            "bp_dia": 88
+        }
+    },
+    "subject214": {
+        "video": [
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/7bca7ebf7ad74b13b74156379faeb51d_1.mp4",
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/7bca7ebf7ad74b13b74156379faeb51d_2.mp4"
+        ],
+        "ground_truth": "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/7bca7ebf7ad74b13b74156379faeb51d.json",
+        "BP": {
+            "bp_sys": 197,
+            "bp_dia": 103
+        }
+    },
+    "subject215": {
+        "video": [
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/7c8473adf3444e4ea134b0ece8c0f95f_1.mp4",
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/7c8473adf3444e4ea134b0ece8c0f95f_2.mp4"
+        ],
+        "ground_truth": "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/7c8473adf3444e4ea134b0ece8c0f95f.json",
+        "BP": {
+            "bp_sys": 131,
+            "bp_dia": 63
+        }
+    },
+    "subject216": {
+        "video": [
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/7d844cbd5b0d4c5e8d6423d20a157edd_1.mp4",
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/7d844cbd5b0d4c5e8d6423d20a157edd_2.mp4"
+        ],
+        "ground_truth": "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/7d844cbd5b0d4c5e8d6423d20a157edd.json",
+        "BP": {
+            "bp_sys": 151,
+            "bp_dia": 87
+        }
+    },
+    "subject217": {
+        "video": [
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/7e48c9a3d86d4c9ea41e1123e6546fa3_1.mp4",
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/7e48c9a3d86d4c9ea41e1123e6546fa3_2.mp4"
+        ],
+        "ground_truth": "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/7e48c9a3d86d4c9ea41e1123e6546fa3.json",
+        "BP": {
+            "bp_sys": 153,
+            "bp_dia": 94
+        }
+    },
+    "subject218": {
+        "video": [
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/7e619fd68a1a413cb052b555540c802c_1.mp4",
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/7e619fd68a1a413cb052b555540c802c_2.mp4"
+        ],
+        "ground_truth": "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/7e619fd68a1a413cb052b555540c802c.json",
+        "BP": {
+            "bp_sys": 131,
+            "bp_dia": 78
+        }
+    },
+    "subject219": {
+        "video": [
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/7f50f544e50345ea9f231b9f1ec9eda2_1.mp4",
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/7f50f544e50345ea9f231b9f1ec9eda2_2.mp4"
+        ],
+        "ground_truth": "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/7f50f544e50345ea9f231b9f1ec9eda2.json",
+        "BP": {
+            "bp_sys": 185,
+            "bp_dia": 107
+        }
+    },
+    "subject220": {
+        "video": [
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/7f6f94f4638d4cfbbfd29c4fabab86d9_1.mp4",
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/7f6f94f4638d4cfbbfd29c4fabab86d9_2.mp4"
+        ],
+        "ground_truth": "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/7f6f94f4638d4cfbbfd29c4fabab86d9.json",
+        "BP": {
+            "bp_sys": 135,
+            "bp_dia": 87
+        }
+    },
+    "subject221": {
+        "video": [
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/80c8ff4b174e4486864899176beb4f4e_1.mp4",
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/80c8ff4b174e4486864899176beb4f4e_2.mp4"
+        ],
+        "ground_truth": "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/80c8ff4b174e4486864899176beb4f4e.json",
+        "BP": {
+            "bp_sys": 99,
+            "bp_dia": 67
+        }
+    },
+    "subject222": {
+        "video": [
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/82991d41798f4752a1c1f7c30f443047_1.mp4",
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/82991d41798f4752a1c1f7c30f443047_2.mp4"
+        ],
+        "ground_truth": "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/82991d41798f4752a1c1f7c30f443047.json",
+        "BP": {
+            "bp_sys": 129,
+            "bp_dia": 84
+        }
+    },
+    "subject223": {
+        "video": [
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/82a14513e4a5457194da78d7bd0647f4_1.mp4",
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/82a14513e4a5457194da78d7bd0647f4_2.mp4"
+        ],
+        "ground_truth": "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/82a14513e4a5457194da78d7bd0647f4.json",
+        "BP": {
+            "bp_sys": 163,
+            "bp_dia": 89
+        }
+    },
+    "subject224": {
+        "video": [
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/832f92248e834b4aa09cb57b05073d6e_1.mp4",
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/832f92248e834b4aa09cb57b05073d6e_2.mp4"
+        ],
+        "ground_truth": "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/832f92248e834b4aa09cb57b05073d6e.json",
+        "BP": {
+            "bp_sys": 165,
+            "bp_dia": 86
+        }
+    },
+    "subject225": {
+        "video": [
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/837c8dc22862464c8ab535f9323929db_1.mp4",
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/837c8dc22862464c8ab535f9323929db_2.mp4"
+        ],
+        "ground_truth": "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/837c8dc22862464c8ab535f9323929db.json",
+        "BP": {
+            "bp_sys": 154,
+            "bp_dia": 81
+        }
+    },
+    "subject226": {
+        "video": [
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/8490836382774d29b04035092677abbd_1.mp4",
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/8490836382774d29b04035092677abbd_2.mp4"
+        ],
+        "ground_truth": "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/8490836382774d29b04035092677abbd.json",
+        "BP": {
+            "bp_sys": 161,
+            "bp_dia": 101
+        }
+    },
+    "subject227": {
+        "video": [
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/871bafc0b6d64c218cc0aa765fddfcd1_1.mp4",
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/871bafc0b6d64c218cc0aa765fddfcd1_2.mp4"
+        ],
+        "ground_truth": "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/871bafc0b6d64c218cc0aa765fddfcd1.json",
+        "BP": {
+            "bp_sys": 153,
+            "bp_dia": 91
+        }
+    },
+    "subject228": {
+        "video": [
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/878fff0194ef4d5ebfd78e0e51243db3_1.mp4",
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/878fff0194ef4d5ebfd78e0e51243db3_2.mp4"
+        ],
+        "ground_truth": "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/878fff0194ef4d5ebfd78e0e51243db3.json",
+        "BP": {
+            "bp_sys": 182,
+            "bp_dia": 113
+        }
+    },
+    "subject229": {
+        "video": [
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/8af83c03c373442992ed737a92bcc257_1.mp4",
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/8af83c03c373442992ed737a92bcc257_2.mp4"
+        ],
+        "ground_truth": "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/8af83c03c373442992ed737a92bcc257.json",
+        "BP": {
+            "bp_sys": 136,
+            "bp_dia": 89
+        }
+    },
+    "subject230": {
+        "video": [
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/8b312af1e47648fda23755c9226f40fe_1.mp4",
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/8b312af1e47648fda23755c9226f40fe_2.mp4"
+        ],
+        "ground_truth": "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/8b312af1e47648fda23755c9226f40fe.json",
+        "BP": {
+            "bp_sys": 198,
+            "bp_dia": 105
+        }
+    },
+    "subject231": {
+        "video": [
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/8e204f8d571841178e0302b5ef82743b_1.mp4",
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/8e204f8d571841178e0302b5ef82743b_2.mp4"
+        ],
+        "ground_truth": "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/8e204f8d571841178e0302b5ef82743b.json",
+        "BP": {
+            "bp_sys": 129,
+            "bp_dia": 81
+        }
+    },
+    "subject232": {
+        "video": [
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/8f5e1a7cfd4d4bdcbbc6c42558281fef_1.mp4",
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/8f5e1a7cfd4d4bdcbbc6c42558281fef_2.mp4"
+        ],
+        "ground_truth": "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/8f5e1a7cfd4d4bdcbbc6c42558281fef.json",
+        "BP": {
+            "bp_sys": 162,
+            "bp_dia": 86
+        }
+    },
+    "subject233": {
+        "video": [
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/93e230912d27475585789731da10ac18_1.mp4",
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/93e230912d27475585789731da10ac18_2.mp4"
+        ],
+        "ground_truth": "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/93e230912d27475585789731da10ac18.json",
+        "BP": {
+            "bp_sys": 166,
+            "bp_dia": 115
+        }
+    },
+    "subject234": {
+        "video": [
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/956eb2fdf8d34540b39f2a8ccc2d1fb7_1.mp4",
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/956eb2fdf8d34540b39f2a8ccc2d1fb7_2.mp4"
+        ],
+        "ground_truth": "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/956eb2fdf8d34540b39f2a8ccc2d1fb7.json",
+        "BP": {
+            "bp_sys": 127,
+            "bp_dia": 83
+        }
+    },
+    "subject235": {
+        "video": [
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/95acc82979c048f883d013c0ab614034_1.mp4",
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/95acc82979c048f883d013c0ab614034_2.mp4"
+        ],
+        "ground_truth": "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/95acc82979c048f883d013c0ab614034.json",
+        "BP": {
+            "bp_sys": 135,
+            "bp_dia": 82
+        }
+    },
+    "subject236": {
+        "video": [
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/95ea68a2b1c04b459d4e4f0e701d0b31_1.mp4",
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/95ea68a2b1c04b459d4e4f0e701d0b31_2.mp4"
+        ],
+        "ground_truth": "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/95ea68a2b1c04b459d4e4f0e701d0b31.json",
+        "BP": {
+            "bp_sys": 179,
+            "bp_dia": 90
+        }
+    },
+    "subject237": {
+        "video": [
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/9813dd9ba8e841df9eb59762b8a23480_1.mp4",
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/9813dd9ba8e841df9eb59762b8a23480_2.mp4"
+        ],
+        "ground_truth": "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/9813dd9ba8e841df9eb59762b8a23480.json",
+        "BP": {
+            "bp_sys": 150,
+            "bp_dia": 87
+        }
+    },
+    "subject238": {
+        "video": [
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/985788b261214614a549c416865ec484_1.mp4",
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/985788b261214614a549c416865ec484_2.mp4"
+        ],
+        "ground_truth": "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/985788b261214614a549c416865ec484.json",
+        "BP": {
+            "bp_sys": 166,
+            "bp_dia": 108
+        }
+    },
+    "subject239": {
+        "video": [
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/9928c352f284469792b3d3387175f7e5_1.mp4",
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/9928c352f284469792b3d3387175f7e5_2.mp4"
+        ],
+        "ground_truth": "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/9928c352f284469792b3d3387175f7e5.json",
+        "BP": {
+            "bp_sys": 156,
+            "bp_dia": 93
+        }
+    },
+    "subject240": {
+        "video": [
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/99547cd875a447f399cf9a269bed383c_1.mp4",
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/99547cd875a447f399cf9a269bed383c_2.mp4",
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/99547cd875a447f399cf9a269bed383c_3.mp4",
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/99547cd875a447f399cf9a269bed383c_4.mp4"
+        ],
+        "ground_truth": "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/99547cd875a447f399cf9a269bed383c.json",
+        "BP": {
+            "bp_sys": 131,
+            "bp_dia": 72
+        }
+    },
+    "subject241": {
+        "video": [
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/9a628f653b5e4b96a5aec4010d77d34b_1.mp4",
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/9a628f653b5e4b96a5aec4010d77d34b_2.mp4"
+        ],
+        "ground_truth": "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/9a628f653b5e4b96a5aec4010d77d34b.json",
+        "BP": {
+            "bp_sys": 156,
+            "bp_dia": 83
+        }
+    },
+    "subject242": {
+        "video": [
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/9c0061248ad7482bbeb3da36b15aabd1_1.mp4",
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/9c0061248ad7482bbeb3da36b15aabd1_2.mp4"
+        ],
+        "ground_truth": "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/9c0061248ad7482bbeb3da36b15aabd1.json",
+        "BP": {
+            "bp_sys": 118,
+            "bp_dia": 68
+        }
+    },
+    "subject243": {
+        "video": [
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/9c1b2914a456483292d043f62c05bad9_1.mp4",
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/9c1b2914a456483292d043f62c05bad9_2.mp4"
+        ],
+        "ground_truth": "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/9c1b2914a456483292d043f62c05bad9.json",
+        "BP": {
+            "bp_sys": 163,
+            "bp_dia": 87
+        }
+    },
+    "subject244": {
+        "video": [
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/9c44ba8bf1024875ad07a2cc6646e499_1.mp4",
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/9c44ba8bf1024875ad07a2cc6646e499_2.mp4"
+        ],
+        "ground_truth": "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/9c44ba8bf1024875ad07a2cc6646e499.json",
+        "BP": {
+            "bp_sys": 108,
+            "bp_dia": 77
+        }
+    },
+    "subject245": {
+        "video": [
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/9d91a0c320b2435688470b6d460a74e4_1.mp4",
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/9d91a0c320b2435688470b6d460a74e4_2.mp4"
+        ],
+        "ground_truth": "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/9d91a0c320b2435688470b6d460a74e4.json",
+        "BP": {
+            "bp_sys": 143,
+            "bp_dia": 68
+        }
+    },
+    "subject246": {
+        "video": [
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/9ef803477dd046e88b38f8664c75d38e_1.mp4",
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/9ef803477dd046e88b38f8664c75d38e_2.mp4"
+        ],
+        "ground_truth": "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/9ef803477dd046e88b38f8664c75d38e.json",
+        "BP": {
+            "bp_sys": 189,
+            "bp_dia": 122
+        }
+    },
+    "subject247": {
+        "video": [
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/a2a538c6d5e143a28e512ea178b8feb4_1.mp4",
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/a2a538c6d5e143a28e512ea178b8feb4_2.mp4",
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/a2a538c6d5e143a28e512ea178b8feb4_3.mp4"
+        ],
+        "ground_truth": "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/a2a538c6d5e143a28e512ea178b8feb4.json",
+        "BP": {
+            "bp_sys": 137,
+            "bp_dia": 92
+        }
+    },
+    "subject248": {
+        "video": [
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/a2b5cd11cec944229265274feec54cb8_1.mp4",
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/a2b5cd11cec944229265274feec54cb8_2.mp4"
+        ],
+        "ground_truth": "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/a2b5cd11cec944229265274feec54cb8.json",
+        "BP": {
+            "bp_sys": 132,
+            "bp_dia": 73
+        }
+    },
+    "subject249": {
+        "video": [
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/a2d27ace599a4a6a9b5c52057ee707ce_1.mp4",
+            "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/a2d27ace599a4a6a9b5c52057ee707ce_2.mp4"
+        ],
+        "ground_truth": "/media/neuroai/5E1227AF12278B5B/VitalVideos/vv250/a2d27ace599a4a6a9b5c52057ee707ce.json",
+        "BP": {
+            "bp_sys": 159,
+            "bp_dia": 92
+        }
+    }
+}
