@@ -36,3 +36,6 @@
 
 본 논문에서는 Vital_Video 데이터셋을 학습하고 OBF Dataset으로 Train을 진행하지만 아직 Vital_video dataset만을 이용해 train, valid, test를 진행하고 있습니다.
 OBF test는 추후 추가하겠습니다.
+
+이 코드는 개인 연구를 위해 구현하였습니다.
+편의성 부분은 고려하지 못했음을 알려드립니다.
