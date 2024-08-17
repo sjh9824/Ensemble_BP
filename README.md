@@ -36,7 +36,7 @@
    ```bash
    pip install -r requirements.txt
 
-   *Note:* The `requirements.txt` may contain unnecessary packages.
+  *Note:* The `requirements.txt` may contain unnecessary packages.
 
 3. **Set Paths in `config.yaml`**:  
    Edit the paths in the `config.yaml` file as shown below:
@@ -49,7 +49,7 @@
     FS: 30
    
 
-   Make sure to modify the `DATA_PATH` and `JSON_PATH` fields to reflect the locations of your dataset and the JSON output file.
+  Make sure to modify the `DATA_PATH` and `JSON_PATH` fields to reflect the locations of your dataset and the JSON output file.
 
 5. **Run the Project**:  
    Once the paths are set, run the project by executing the following command in the terminal:
