@@ -9,6 +9,20 @@ from tqdm import tqdm
 from retinaface import RetinaFace
 from mtcnn import MTCNN
 import torch
+import os
+import glob
+import json
+import random
+import cv2
+import numpy as np
+from tqdm import tqdm
+from retinaface import RetinaFace
+from mtcnn import MTCNN
+import torch
+import logging
+
+# Logging 설정
+logging.basicConfig(filename='warnings.log', level=logging.WARNING, format='%(asctime)s - %(levelname)s - %(message)s')
 
 class FaceDetector:
     def __init__(self):
@@ -17,19 +31,18 @@ class FaceDetector:
     def detect_and_resize_face(self, image, frame_count, target_size=(128, 128), backend='HC', use_larger_box=False, larger_box_coef=2.0):
         image_rgb = cv2.cvtColor(image, cv2.COLOR_BGR2RGB)
         device = torch.device("cuda:0" if torch.cuda.is_available() else 'cpu')
-        global device_printed
         
         face_box_coor = None
         
         current_dir = os.path.dirname(os.path.abspath(__file__))
         hc_path = os.path.join(current_dir, 'haarcascade_frontalface_default.xml')
         
-        # HC 백엔드는 기존처럼 처리
         if backend == "HC":
             detector = cv2.CascadeClassifier(hc_path)
             face_zone = detector.detectMultiScale(image_rgb)
 
             if len(face_zone) < 1:
+                logging.warning("No Face Detected - Using last detected face position")
                 return None
             elif len(face_zone) >= 2:
                 max_width_index = np.argmax(face_zone[:, 2])
@@ -37,7 +50,6 @@ class FaceDetector:
             else:
                 face_box_coor = face_zone[0]
 
-        # RF와 MT 백엔드는 frame_count에 따라 처리
         elif backend == "RF" or backend == "MT":
             if frame_count == 0 or frame_count % 160 == 0 or self.last_face_box_coor is None:
                 if backend == "RF":
@@ -59,13 +71,14 @@ class FaceDetector:
                         new_y = center_y - (square_size // 2)
                         face_box_coor = [new_x, new_y, square_size, square_size]
                     else:
-                        print("ERROR: No Face Detected - Using last detected face position")
+                        logging.warning("No Face Detected - Using last detected face position")
                         face_box_coor = self.last_face_box_coor
 
                 elif backend == "MT":
                     detector = MTCNN(keep_all=True, device=device)
                     results = detector.detect_faces(image_rgb)
                     if len(results) < 1:
+                        logging.warning("No Face Detected - Using last detected face position")
                         return None
                     elif len(results) >= 2:
                         max_width_index = np.argmax([r['box'][2] for r in results])
@@ -73,25 +86,26 @@ class FaceDetector:
                     else:
                         face_box_coor = results[0]['box']
 
-                # 얼굴 위치를 저장
                 self.last_face_box_coor = face_box_coor
             else:
-                # 이전에 검출된 얼굴 위치 사용
                 face_box_coor = self.last_face_box_coor
 
-        # 더 큰 박스를 사용할 경우
         if use_larger_box:
             face_box_coor[0] = max(0, face_box_coor[0] - (larger_box_coef - 1.0) / 2 * face_box_coor[2])
             face_box_coor[1] = max(0, face_box_coor[1] - (larger_box_coef - 1.0) / 2 * face_box_coor[3])
             face_box_coor[2] = int(larger_box_coef * face_box_coor[2])
             face_box_coor[3] = int(larger_box_coef * face_box_coor[3])
             
-        # 얼굴 크롭 및 리사이즈
         x, y, w, h = face_box_coor
         face_crop = image[int(y):int(y+h), int(x):int(x+w)]
         resized_face = cv2.resize(face_crop, target_size, interpolation=cv2.INTER_AREA)
 
         return resized_face
+
+# 예외 처리: 비디오 디코딩 오류를 잡아내고 경고 로그에 기록합니다.
+def handle_video_decoding_error(error):
+    logging.warning(f"h264 decoding error: {error}")
+
 
 class convert_vid2npy():
     def __init__(self, config, path):
