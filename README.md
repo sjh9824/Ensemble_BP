@@ -42,7 +42,6 @@ You can find the full paper [here](https://liangli-zhen.github.io/assets/pdf/ReP
     DATA_PATH: "your/path"  # Data Path
     JSON_PATH: 'your/path/numpy_path_with_gt.json'  # Data processing save path (including the JSON file name).
     FS: 30
-   '''
 
 5. **Run the Project**:  
    Once the paths are set, run the project by executing the following command in the terminal:
