@@ -1,32 +1,29 @@
 # Ensemble Deep Learning for Blood Pressure Estimation Using Facial Videos
 
-이 프로젝트는 "Ensemble Deep Learning for Blood Pressure Estimation Using Facial Videos"라는 제목의 논문에 기반한 연구 결과를 포함하고 있습니다. 이 논문은 "The 3rd RePSS Track2"에서 1등을 수상한 수상작입니다.
+This project is based on the research results of the paper titled "Ensemble Deep Learning for Blood Pressure Estimation Using Facial Videos." This paper was the first-place winner at "The 3rd RePSS Track2."
 
-## 소개
+## Introduction
 
-이 프로젝트는 얼굴 비디오를 사용하여 혈압을 추정하는 딥러닝 기반의 앙상블 모델을 구현합니다. 사용 모델로는 Physformer와 Physnet를 사용했습니다.
+This project implements an ensemble deep learning model that estimates blood pressure using facial videos. The models used include Physformer and Physnet.
 
-## 논문 정보
+## Paper Information
 
-- **논문 제목:** Ensemble Deep Learning for Blood Pressure Estimation Using Facial Videos
-- **저자:**
+- **Paper Title:** Ensemble Deep Learning for Blood Pressure Estimation Using Facial Videos
+- **Authors:**
   - Wei Liu¹, Bingjie Wu¹, Menghan Zhou¹, Xingjian Zheng¹, Xingyao Wang¹, Liangli Zhen¹,∗, Yiping Xie², Chaoqi Luo³
 
-- **소속 정보:**
+- **Affiliations:**
   - ¹Institute of High Performance Computing, Agency for Science, Technology and Research (A*STAR), Singapore
   - ²College of Computer Science and Software Engineering, Shenzhen University, Shenzhen, China
   - ³School of Electrical Engineering, Southwest Jiaotong University, Chengdu, China
 
-- **컨퍼런스:** The 3rd RePSS Track2
-- **수상:** 1등
+- **Conference:** The 3rd RePSS Track2
+- **Award:** 1st Place
 
-논문 전문은 "(https://liangli-zhen.github.io/assets/pdf/RePPS_BP.pdf)" 에서 확인하실 수 있습니다.
+You can find the full paper [here](https://liangli-zhen.github.io/assets/pdf/RePPS_BP.pdf).
 
-## 모델 구조
+## Model Architecture
 ![image](https://github.com/user-attachments/assets/a011e1c3-7a4e-459d-bffa-3dc905df0a76)
-
-
-## Usage
 
 ## Usage
 
