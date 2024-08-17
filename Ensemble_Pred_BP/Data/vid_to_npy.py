@@ -182,6 +182,9 @@ class convert_vid2npy():
             os.makedirs(yuv_output_dir)
 
         cap = cv2.VideoCapture(video_path)
+        if not cap.isOpened():
+            handle_video_decoding_error(f"Failed to open video file: {video_path}")
+            return [], [], start_idx
         total_frames = int(cap.get(cv2.CAP_PROP_FRAME_COUNT))
         frame_count = 0
         face_frames = []
