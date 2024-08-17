@@ -32,8 +32,8 @@ You can find the full paper [here](https://liangli-zhen.github.io/assets/pdf/ReP
    
    ```bash
    pip install -r requirements.txt
-
-<p style="margin-left: 20px;">*Note:* The `requirements.txt` may contain unnecessary packages.</p>
+   '''
+   *Note:* The `requirements.txt` may contain unnecessary packages.</p>
 
 3. **Set Paths in `config.yaml`**:  
    Edit the paths in the `config.yaml` file as shown below:
@@ -44,9 +44,8 @@ You can find the full paper [here](https://liangli-zhen.github.io/assets/pdf/ReP
     DATA_PATH: "your/path"  # Data Path
     JSON_PATH: 'your/path/numpy_path_with_gt.json'  # Data processing save path (including the JSON file name).
     FS: 30
-   
-
-  Make sure to modify the `DATA_PATH` and `JSON_PATH` fields to reflect the locations of your dataset and the JSON output file.
+   '''
+   Make sure to modify the `DATA_PATH` and `JSON_PATH` fields to reflect the locations of your dataset and the JSON output file.
 
 5. **Run the Project**:  
    Once the paths are set, run the project by executing the following command in the terminal:
