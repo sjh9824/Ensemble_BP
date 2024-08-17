@@ -33,7 +33,7 @@ You can find the full paper [here](https://liangli-zhen.github.io/assets/pdf/ReP
    ```bash
    pip install -r requirements.txt
 
-  *Note:* The `requirements.txt` may contain unnecessary packages.
+<p style="margin-left: 20px;">*Note:* The `requirements.txt` may contain unnecessary packages.</p>
 
 3. **Set Paths in `config.yaml`**:  
    Edit the paths in the `config.yaml` file as shown below:
