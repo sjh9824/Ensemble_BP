@@ -26,16 +26,32 @@
 ![image](https://github.com/user-attachments/assets/a011e1c3-7a4e-459d-bffa-3dc905df0a76)
 
 
-## 사용법
+## Usage
 
-1. Data_Preprocess.ipynb 를 통해 vital_video dataset의 위치 정보 및 Path 설정을 진행합니다.
+## Usage
+
+1. **Install Required Packages**:  
+   Install the dependencies listed in the `requirements.txt` file using the following command:
    
-2. Create_npy_path_to_json.ipynb 를 통해 vital_video를 preprocessing한 RGB 정보 numpy와 YUV 정보 numpy의 경로와 ground_truth가 정리된 json 파일을 얻습니다.
+   ```bash
+   pip install -r requirements.txt
 
-3. main.py에 2번을 통해 얻은 json파일의 경로를 적어주고 실행합니다.
+   *Note:* The `requirements.txt` may contain unnecessary packages.
 
-본 논문에서는 Vital_Video 데이터셋을 학습하고 OBF Dataset으로 Train을 진행하지만 아직 Vital_video dataset만을 이용해 train, valid, test를 진행하고 있습니다.
-OBF test는 추후 추가하겠습니다.
+3. **Set Paths in `config.yaml`**:  
+   Edit the paths in the `config.yaml` file as shown below:
 
-이 코드는 개인 연구를 위해 구현하였습니다.
-편의성 부분은 고려하지 못했음을 알려드립니다.
+   ```bash
+   DATA:
+    TYPE: 'vital-video'  # Data Type
+    DATA_PATH: "your/path"  # Data Path
+    JSON_PATH: 'your/path/numpy_path_with_gt.json'  # Data processing save path (including the JSON file name).
+    FS: 30
+   
+
+   Make sure to modify the `DATA_PATH` and `JSON_PATH` fields to reflect the locations of your dataset and the JSON output file.
+
+5. **Run the Project**:  
+   Once the paths are set, run the project by executing the following command in the terminal:
+   ```bash
+   python main.py
