@@ -1,0 +1,53 @@
+DEVICE: cuda:0
+NUM_OF_GPU_TRAIN: 4
+INITIAL_SEED: 42
+TOOLBOX_MODE: 'train and test'
+
+PREPROCESS:
+  BOTH: True # if you use both(physnet, physformer) should be true
+  USING_MODEL: 'Physformer' # physforemr or physnet
+  DO: False                                    #if you first time, shoul be set 'True'
+  CHUNK_LENGTH: 160
+  BACKEND : 'RF' #HC, RF, MT
+  RANDOM_FRAME: False
+  #Use this if data processing was interrupted. Enter the number of the SUBJECT where it stopped.
+  #Enter 0 if there are no issues.
+  SUBJECT_NUMBER: 0
+  FILTER_PERCENTAGE: 90                   #The percentage of valid frames needed for filtering
+
+DATA:
+  TYPE: 'vital-video'
+  DATA_PATH: "/media/user/5E1227AF12278B5B/VitalVideos/"
+  JSON_PATH: '/mnt/HDD_3/Code_jaehyuk/input_2.json'
+  FS: 30
+
+ENSEMBLE:
+  NUM: 0
+
+RUN:
+  DIR: "run"
+
+MODEL:
+  PHYSFORMER:
+    DROP_RATE: 0.1
+    PATCH_SIZE: 4
+    DIM: 96 #96 
+    FF_DIM: 144 #144
+    NUM_HEADS: 4 #4
+    NUM_LAYERS: 12 #12
+    THETA: 0.7
+
+  PHYSNET:
+    FRAME_NUM: 160
+
+TRAIN: 
+  BATCH_SIZE: 4
+  EPOCHS: 50
+  RESIZE:
+    H: 128
+    W: 128
+
+TEST:
+  USE_LAST_EPOCH: False
+
+
