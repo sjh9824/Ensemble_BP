@@ -57,10 +57,10 @@ You can find the full paper [here](https://liangli-zhen.github.io/assets/pdf/ReP
   Best Epoch: 50(last)  
   Dataset: Vital Video(250 subject)  
   Processing: Split in 160 frames  
-              RGB, YUV (3 channels)  
-              Face Detection (Use Retina Face)  
-              128 * 128 resized  
-              Input Vector Size [160, 128, 128, 3]   
+  RGB, YUV (3 channels)  
+  Face Detection (Use Retina Face)  
+  128 * 128 resized  
+  Input Vector Size [160, 128, 128, 3]   
   Split Data: Train : Valid : Test = 7 : 2 : 1  
 
    
