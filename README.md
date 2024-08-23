@@ -53,24 +53,24 @@ You can find the full paper [here](https://liangli-zhen.github.io/assets/pdf/ReP
 
 1. **Train Curve**:
    ![train_valid_loss_plot](https://github.com/user-attachments/assets/32dc0d61-632a-4ec6-8152-d3f02c5b8e94)
-  Train Epoch: 50
-  Best Epoch: 50(last)
-  Dataset: Vital Video(250 subject)
-  Processing: Split in 160 frames
-              RGB, YUV (3 channels)
-              Face Detection (Use Retina Face)
-              128 * 128 resized
-              Input Vector Size [160, 128, 128, 3] 
-  Split Data: Train : Valid : Test = 7 : 2 : 1
+  Train Epoch: 50  
+  Best Epoch: 50(last)  
+  Dataset: Vital Video(250 subject)  
+  Processing: Split in 160 frames  
+              RGB, YUV (3 channels)  
+              Face Detection (Use Retina Face)  
+              128 * 128 resized  
+              Input Vector Size [160, 128, 128, 3]   
+  Split Data: Train : Valid : Test = 7 : 2 : 1  
 
    
 2. **Scatter**:  
    ![Both_Both_Scatter](https://github.com/user-attachments/assets/8c2903a7-5db9-4b3f-93f3-41ee08554ad9)
-  Using Model: Both(Physforemr, Physnet)
-  Using Data Type: Both(RGB, YUV)
+  Using Model: Both(Physforemr, Physnet)  
+  Using Data Type: Both(RGB, YUV)  
 
 3. **Test Table**:
-   Test Table in using model type and data type
-   (Both : Using both model or data type)
-   Metrics : MAE, RMSE, Pearson Correlation(r)
+   Test Table in using model type and data type  
+   (Both : Using both model or data type)  
+   Metrics : MAE, RMSE, Pearson Correlation(r)  
    ![GetImage](https://github.com/user-attachments/assets/36345414-9120-4ed3-be8d-f1866ac9561e)
