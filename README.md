@@ -55,7 +55,7 @@ You can find the full paper [here](https://liangli-zhen.github.io/assets/pdf/ReP
   Train Epoch: 50  
   Best Epoch: 50(last)  
   Dataset: Vital Video(250 subject)  
-           &emsp;&emsp;&emsp;&emsp;Processing: Split in 160 frames  
+  Processing: Split in 160 frames  
            &emsp;&emsp;&emsp;&emsp;RGB, YUV (3 channels)  
            &emsp;&emsp;&emsp;&emsp;Face Detection (Use Retina Face)  
            &emsp;&emsp;&emsp;&emsp;128 * 128 resized  
