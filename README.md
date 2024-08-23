@@ -69,7 +69,7 @@ You can find the full paper [here](https://liangli-zhen.github.io/assets/pdf/ReP
   Using Model: Both(Physforemr, Physnet)  
   Using Data Type: Both(RGB, YUV)  
 
-3. **Test Table**:
+3. **Test Table**:  
    Test Table in using model type and data type  
    (Both : Using both model or data type)  
    Metrics : MAE, RMSE, Pearson Correlation(r)  
