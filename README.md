@@ -70,7 +70,7 @@ You can find the full paper [here](https://liangli-zhen.github.io/assets/pdf/ReP
   Using Data Type: Both(RGB, YUV)  
 
 3. **Test Table**:  
-   Test Table in using model type and data type  
+   Test Table by Model and Data Type at Best Epoch 
    (Both : Using both model or data type)  
    Metrics : MAE, RMSE, Pearson Correlation(r)  
    ![GetImage](https://github.com/user-attachments/assets/36345414-9120-4ed3-be8d-f1866ac9561e)
