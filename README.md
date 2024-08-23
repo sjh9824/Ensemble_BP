@@ -73,3 +73,5 @@ You can find the full paper [here](https://liangli-zhen.github.io/assets/pdf/ReP
    (Both : Using both model or data type)  
    Metrics : MAE, RMSE, Pearson Correlation(r)  
    ![GetImage](https://github.com/user-attachments/assets/36345414-9120-4ed3-be8d-f1866ac9561e)
+
+   The bold font indicates the best value for each metric according to the data type used.
