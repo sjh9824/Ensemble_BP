@@ -1,11 +1,11 @@
 DEVICE: cuda:0
-NUM_OF_GPU_TRAIN: 2
+NUM_OF_GPU_TRAIN: 2 #your gpu num
 INITIAL_SEED: 42
 TOOLBOX_MODE: 'train and test'
 
 PREPROCESS:
-  BOTH: True # if you use both(physnet, physformer) should be true
-  USING_MODEL: 'Physnet' # physforemr or physnet
+  BOTH: True # if you want use both(physnet, physformer) should be true
+  USING_MODEL: 'Physnet' # If 'both' is False, Set physforemr or physnet
   DO: False                                    #if you first time, shoul be set 'True'
   CHUNK_LENGTH: 160
   BACKEND : 'RF' #HC, RF, MT
@@ -17,8 +17,8 @@ PREPROCESS:
 
 DATA:
   TYPE: 'vital-video'
-  DATA_PATH: "/media/user/5E1227AF12278B5B/VitalVideos/"
-  JSON_PATH: '/media/user/5E1227AF12278B5B/Github upload/input_normalized.json'
+  DATA_PATH: 'your/path/VitalVideos/'
+  JSON_PATH: 'yout/json/save/path/input_normalized.json'
   FS: 30
 
 ENSEMBLE:
@@ -48,6 +48,6 @@ TRAIN:
     W: 128
 
 TEST:
-  USE_LAST_EPOCH: False
+  USE_LAST_EPOCH: False #Should be false
 
 
