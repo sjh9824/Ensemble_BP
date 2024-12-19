@@ -22,9 +22,6 @@ This project implements an ensemble deep learning model that estimates blood pre
 
 You can find the full paper [here](https://liangli-zhen.github.io/assets/pdf/RePPS_BP.pdf).
 
-## Model Architecture
-![image](https://github.com/user-attachments/assets/a011e1c3-7a4e-459d-bffa-3dc905df0a76)
-
 ## Usage
 
 1. **Install Required Packages**:  
